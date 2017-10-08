@@ -45,7 +45,10 @@
 					"good_class": "Travail sérieux continue",
 					"bad_class": "Participe une fois par heure..."
 				},
-				{}
+				{
+					"title": "Léna",
+					"grade": "10"
+				}
 			]
 		}
 	]
