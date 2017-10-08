@@ -19,7 +19,8 @@
 					"grade": "8,5",
 					"good_copie": "Quelques documents sont compris",
 					"bad_copie": "Tes réponses sont souvent mélangées et ne sont pas précises. Question 1 répond à toute la question ( situer la ville ) question 2 il faut donner plus de détails. Paragraphe : tu utilises les mots clés sans toujours les comprendre. ",
-					"good_class": "Le cours est pris en note et les activités sont à peu près faites. "
+					"good_class": "Le cours est pris en note et les activités sont à peu près faites. ",
+					"bad_class": "Je ne peux pas t'aider si tu ne demandes jamais rien, si tu ne prends jamais la parole, si tu ne me dis jamais ce qui pose problème. Je vois bien que tu ne comprends pas toujours tout, il faut me le dire. "
 				}
 			]
 		}
