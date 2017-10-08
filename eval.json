@@ -14,7 +14,10 @@
 					"good_class": "parfois assez bonne participation",
 					"bad_class": "Trop de bavardages, le cours est souvent pris en note en retard. Je compte sur toi pour réviser davantage et gagner en précision. "
 				},
-				{}
+				{
+					"title": "Elodie",
+					"grade": "8,5"
+				}
 			]
 		}
 	]
