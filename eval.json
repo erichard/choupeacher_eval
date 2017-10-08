@@ -22,7 +22,10 @@
 					"good_class": "Le cours est pris en note et les activités sont à peu près faites. ",
 					"bad_class": "Je ne peux pas t'aider si tu ne demandes jamais rien, si tu ne prends jamais la parole, si tu ne me dis jamais ce qui pose problème. Je vois bien que tu ne comprends pas toujours tout, il faut me le dire. Je compte sur toi pour participer une fois par heure en classe. "
 				},
-				{}
+				{
+					"title": "Morgane",
+					"grade": "10,5"
+				}
 			]
 		}
 	]
