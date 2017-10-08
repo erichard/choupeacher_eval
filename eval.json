@@ -7,7 +7,7 @@
 			"id": "byzance",
 			"eleve": [
 				{
-					"title": "Dylan",
+					"name": "Dylan",
 					"grade": "8",
 					"good_copie": "Les documents sont compris mais pas assez expliqués. Dans l'ensemble, plusieurs choses sont comprises ( étalement urbain )",
 					"bad_copie": "Tu n'expliques pas assez et tes phrases ne sont pas assez claires. Question 2 on attend des mots clés comme périurbanisation, étalement urbain, périphérie. Question 3, on attend conflit d'usage, migration pendulaire. En fait, tu es arrivé en évaluation avec ce dont tu te souvenais, sans réelle révision. Pour le paragraphe, c'est entièrement à revoir, ça devrait venir d'ici à la fin du trimestre. ",
@@ -15,7 +15,7 @@
 					"bad_class": "Trop de bavardages, le cours est souvent pris en note en retard. Je compte sur toi pour réviser davantage et gagner en précision. "
 				},
 				{
-					"title": "Elodie",
+					"name": "Elodie",
 					"grade": "8,5",
 					"good_copie": "Quelques documents sont compris",
 					"bad_copie": "Tes réponses sont souvent mélangées et ne sont pas précises. Question 1 répond à toute la question ( situer la ville ) question 2 il faut donner plus de détails. Paragraphe : tu utilises les mots clés sans toujours les comprendre. ",
@@ -23,14 +23,14 @@
 					"bad_class": "Je ne peux pas t'aider si tu ne demandes jamais rien, si tu ne prends jamais la parole, si tu ne me dis jamais ce qui pose problème. Je vois bien que tu ne comprends pas toujours tout, il faut me le dire. Je compte sur toi pour participer une fois par heure en classe. "
 				},
 				{
-					"title": "Morgane",
+					"name": "Morgane",
 					"grade": "10,5",
 					"good_copie": "Plusieurs choses sont comprises : décrire une évolution, expliquer les problèmes de l'étalement urbain.",
 					"bad_copie": "Mais tes réponses manquent de précision, tu ne développes pas assez . Question 2 étalement urbain périurbanisation. Sur le paragraphe, c'était bien parti. Pour la carte, il faut absolument la connaître par coeur. ",
 					"good_class": "Assez bonne participation et surtout bonne volonté en classe. Surtout, ne te décourage pas. C'est un premier résultat de 3e, tu vas progresser à condition de faire des fiches régulièrement. "
 				},
 				{
-					"title": "Anaïs",
+					"name": "Anaïs",
 					"grade": "10",
 					"good_copie": "Quelques documents compris. Mais tu peux faire beaucoup mieux. ",
 					"bad_copie": "Tes réponses ne sont pas assez développées. Question 1 donne des chiffres, question 2 donne les mots clé comme périurbanisation, étalement urbain. Paragraphe : tu es venue avec ce dont tu te souvenais des cours, dans l'ensemble, ce n'est pas assez revu. Carte : beaucoup trop d'erreurs, il faut qu'elle soit connue par coeur à la prochaine séquence de géo. ",
@@ -38,7 +38,7 @@
 					"bad_class": "arrête de râler, de te décourager et de dire d'avance que tu n'y arrivera pas. "
 				},
 				{
-					"title": "Quentin D",
+					"name": "Quentin D",
 					"grade": "11",
 					"good_copie": "Les documents sont à peu près compris, il y a eu de vrais progrès et des efforts sur le paragraphe, par rapport à l'année dernière.  Tu développes plus et c'est plus précis. ",
 					"bad_copie": "Gros problème qui te fait perdre beaucoup de points : la carte. Il faut absolument pouvoir situer les 12 aires urbaines principales par coeur pour la prochaine séquence de géo.  Evite de commencer une phrase par \" ça \" ou \"car\" reprend les termes de la question. ",
