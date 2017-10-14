@@ -281,6 +281,14 @@
 					"alerte_cours": true
 				}
 			]
+		},
+		{
+			"eleve": [
+				{
+					"alerte_cours": false,
+					"alerte_comportement": false
+				}
+			]
 		}
 	]
 }
