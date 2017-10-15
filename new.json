@@ -1,4 +1,18 @@
-
 {
-    "title": "Nouveau devoir"
+	"title": "Byzance",
+	"classe": "5A",
+	"date": "2017-10-03",
+	"id": "byzance",
+	"eleve": [
+		{
+			"name": "Dylan",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "q",
+			"bad_copie": "xd",
+			"good_class": "q",
+			"bad_class": "s"
+		}
+	]
 }
