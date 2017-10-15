@@ -1,0 +1,283 @@
+{
+            "title": "Byzance",
+            "classe": "3F",
+            "date": "2017-10-07",
+            "id": "byzance",
+            "eleve": [
+                {
+                    "name": "Edwige",
+                    "grade": 15,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Bon résultat, le cours est revu, compris c'est sérieux.",
+                    "bad_copie": "Tes réponses ne sont pas assez détaillées, tu n'utilises pas encore assez les documents.\nCarte à revoir absolument car les 12 villes seront à placer toute l'année. \nparagraphe : je pense que tu as été suprise, regarde bien la correction sur elyco. ",
+                    "good_class": "bonne participation travail très sérieux",
+                    "bad_class": "participe encore plus ! "
+                },
+                {
+                    "name": "Faustine",
+                    "grade": 13,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "le cours a été revu sérieusement, tu as compris l'essentiel",
+                    "bad_copie": "parfois, manque de précision dans les réponses. Il faut ajouter les mots clés vus en cours. \nparagraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. Le tiens manque un peu de mots clés. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises.\nregarde bien la correction sur elyco. ",
+                    "good_class": "assez bonne participation et du sérieux en classe",
+                    "bad_class": "attention parfois aux bavardages..."
+                },
+                {
+                    "name": "Manon Jerome",
+                    "grade": 15,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Bon résultat ! le cours est revu et compris. tu sais utiliser les documents. ",
+                    "bad_copie": "dans l'ensemble, tes réponses manquent de détails, tu ne réutilises pas assez les mots clés. \nparagraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. Le tiens manque un peu de mots clés. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises.\nregarde bien la correction sur elyco. ",
+                    "good_class": "assez bonne participation travail toujours sérieux",
+                    "bad_class": "attention parfois trop de bavardages"
+                },
+                {
+                    "name": "Quentin Fourmi",
+                    "grade": 11,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Résultat un peu trop juste. Le cours est en grande partie compris",
+                    "bad_copie": "Question 1 tu oublie de situer Lyon ( le plus facile ) question 2 tu n'utilises pas le doc demandé donc il manque des détails. \nCarte à revoir absolument car les 12 villes seront à placer toute l'année. \nParagraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises.\nregarde bien la correction sur elyco. ",
+                    "good_class": "travail assez sérieux et des efforts pour participer",
+                    "bad_class": "ne te décourage pas, ça va venir. "
+                },
+                {
+                    "name": "Léna",
+                    "grade": 11,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Tu vas être déçue de ce résultat. Dans l'ensemble, le cours a été revu, bravo pour les définitions. Ce résultat ne remet pas en cause ton sérieux. ",
+                    "bad_copie": "Tu te mélanges, tes réponses manquent de précision. \nQuestion 1 tu oublie de situer Lyon ( le plus facile ) question 2 tu n'utilises pas le doc demandé donc il manque des détails. \nCarte à revoir absolument car les 12 villes seront à placer toute l'année. \nParagraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises.\nregarde bien la correction sur elyco. ",
+                    "good_class": "des efforts pour participer, de l'intérêt en cours",
+                    "bad_class": "attention au bavardages trop nombreux cette année"
+                },
+                {
+                    "name": "Manon Leroyer",
+                    "grade": 19,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "BRAVO..exellente copie, le paragraphe est maîtrisé, clair, précis. Le cours est revu dans les détails. ",
+                    "bad_copie": "Regarde la correction pour voir ce qui peut être ( encore ) amélioré. \nDommage pour la carte..Cela va venir. ",
+                    "good_class": "Excellente participation du sérieux et de l'intérêt en classe",
+                    "bad_class": "attention aux bavardages, bien plus nombreux cette année. Si c'est trop facile, dis le moi :)"
+                },
+                {
+                    "name": "Amélie",
+                    "grade": 18,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Excellente copie ! Cours revu compris et réponses détaillée. Ton point fort est d'arriver à tout dire en peu de phrases, ton paragraphe est dense, il dit beaucoup sans te perdre dans les détails.  ",
+                    "bad_copie": "Regarde la correction sur elyco pour voir ce qui peut être encore amélioré. \ndommage pour la carte, cela va venir",
+                    "good_class": "bonne participation, travail toujours très sérieux ! ",
+                    "bad_class": "continue à participer, encore plus ! "
+                },
+                {
+                    "name": "Manon Lemarié",
+                    "grade": 18,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Excellent résultat, bravo ! excellent pour les définitions, cela prouve un travail très sérieux.  paragraphe impressionnant. Enormément de sérieux et beaucoup de volonté. Le cours est revu jusqu'à tout connaître, tout détailler. ",
+                    "bad_copie": "quel dommage pour la carte..Cela va venir. ex",
+                    "good_class": "excellente participation, tu as toujours la main levée, toujours prête avant les autres, bravo, continue. "
+                },
+                {
+                    "grade": 18,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Excellent résultat, bravo ! réponse question 1 impressionnante. Enormément de sérieux et beaucoup de volonté. Le cours est revu jusqu'à tout connaître, tout détailler. Félicitation pour la rédaction ( gentrification ! )",
+                    "bad_copie": "Quel dommage pour la carte...Cela va venir",
+                    "good_class": "Excellente participation, beaucoup de sérieux et de dynamisme en classe. "
+                },
+                {
+                    "name": "Lucas Pourceau",
+                    "grade": 16,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Bonne évaluation ! bravo pour les définitions. Bel effort pour développer tes réponses partie 2, elles sont précises. \n",
+                    "bad_copie": "Quel dommage pour la carte..\nParagraphe à développer et à préciser, mais je ne suis pas inquiète, cela va venir très  vite. Pense à faire un brouillon avant avec paragraphe 1 : titre et mots clés, paragraphe 2 même chose. ",
+                    "good_class": "quelques efforts pour participer",
+                    "bad_class": "participe encore plus ! "
+                },
+                {
+                    "name": "Léanne",
+                    "grade": 17,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Très bonne copie ! cours revu, compris, le travail est sérieux. Beaucoup d'efforts pour détailler les réponses. \nDe gros progrès pour le pagragraphe c'est devenu plus organisé et précis. ",
+                    "bad_copie": "regarde bien la correction du paragraphe (elyco ) pour voir ce qui peut être amélioré. \nquel dommage pour la carte...revois bien toutes les villes et MéditeRRanée. ",
+                    "good_class": "bonne participation en classe, travail sérieux continue"
+                },
+                {
+                    "name": "anaïs Robbe",
+                    "grade": 16,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Bonne évaluation ! Le cours a ét revu sérieusement et en grande partie compris. tu sais utiliser des documents et répondre en détaillant tes réponses. ",
+                    "bad_copie": "la carte : villes à savoir placer pour la prochaine fois, tu verras toutes les cartes de géo 3e se ressemblent. \nle paragraphe : il te manque quelques mots clés, regarde bien la correction. ",
+                    "good_class": "travail sérieux en classe",
+                    "bad_class": "mais parfois j'ai l'impression que tu ne comprends pas, que tu attends que l'heure passe. Est ce habituel ? Comprends tu le cours ? \nParticipe au moins une fois par heure..."
+                },
+                {
+                    "name": "Lucas Marchand",
+                    "grade": 17,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Très bonne copie !  Le cours a été revu sérieusement et compris. Bravo pour le paragraphe, tu fais d'énormes progrès, ta rédaction est bien construite. ",
+                    "bad_copie": "quel dommage pour la carte...",
+                    "good_class": "travail sérieux et assez bonne participation",
+                    "bad_class": "attention aux bavardages avec Manon..."
+                },
+                {
+                    "name": "Marine",
+                    "grade": 17,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Très bonne copie ! beau progrès. Le cours a été revu sérieusement et compris. Bravo pour le paragraphe, tu fais d'énormes progrès, ta rédaction est bien construite. ",
+                    "bad_copie": "quel dommage pour la carte...",
+                    "good_class": "travail sérieux et tu sembles attentive en cours.",
+                    "bad_class": "Participe au moins une fois par heure. "
+                },
+                {
+                    "name": "Aymeric",
+                    "grade": 14,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Assez bonne évaluation. Le cours es bien revu, bien pour les définitions. La carte est bien réussie. Il y a donc eu du travail personnel pour réviser et comprendre le cours. ",
+                    "bad_copie": "Paragraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises. Tu utilises des termes que tu ne comprends pas vraiment. La mondialisation, c'est l'augmentation générale des échanges à travers la planète ( le fait que tout marchandises comme informations circulent plus vite ) cela n'est pas provoqué par l'exode rural mais par les progrès techniques. La mondialisation met davantage les Etats et les métropoles en concurrence les uns avec les autres. Si les échanges augmentent et s'acélèrent, on peut fabriquer en Chine et vendre aux Etat Unis. Du coup, les usines américaines sont de plus en plus concurrencées et délocalisent. ",
+                    "good_class": "travail assez sérieux en classe",
+                    "bad_class": "participe encore plus!"
+                },
+                {
+                    "name": "Blandine",
+                    "grade": 14,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Assez bonne évaluation. Le cours es bien revu, bravo pour les définitions. La carte est bien réussie. Il y a donc eu du travail personnel pour réviser et comprendre le cours. ",
+                    "bad_copie": "Paragraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises",
+                    "good_class": "quelques tentatives pour participer",
+                    "bad_class": "attention aux bavardages trop nombreux cette année. Et mets toi un peu plus vite au travail, ose écrire même si tu penses faire une erreur. Prends confiance en toi. "
+                },
+                {
+                    "name": "Laëtitia",
+                    "grade": 16,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Bonne évaluation ! Le cours est revu sérieusement, tu utilises les documents et tu ajoutes les mots clés vus en cours, bonne démarche. \nParagraphe : bravo, c'est intéressant bien construit. pour la forme : après un alinéa de deux carreaux, revient à la ligne. ",
+                    "bad_copie": "quel dommage pour la carte...",
+                    "good_class": "beaucoup de sérieux et bonne participation",
+                    "bad_class": "participe davantage encore, n'hésite pas.."
+                },
+                {
+                    "name": "Perine",
+                    "grade": 13,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Assez bonne évaluation, les documents sont compris, le cours a été revu, tu sais utiliser des documents. Bravo pour les définitions. Il ne te manque ps grand chose pour atteindre 15, un peu plus de précision. ",
+                    "bad_copie": "La carte :  villes doivent être placées correctement à la prochaine évaluation. Tu verras, les croquis de synthèse de géo de tous les chapitres vont se ressembler, il faudra placer à chaque fois les 12 villes, mers océans et pays voisins. \nParagraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises. \nQuand je pose une question sur document, j'attends très souvent un mot clé du cours : étalement urbain, périurbanisation, migration pendulaire. Regarde bien la correction sur elyco. ",
+                    "good_class": "excellente participation, encore mieux que l'année dernière, bravo, beaucoup de dynamisme et de sérieux en classe",
+                    "bad_class": "ne te décourage pas dans l'année, tu vas progresser c'est certain. "
+                },
+                {
+                    "name": "Albane",
+                    "grade": 13,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Assez bonne évaluation, les documents sont compris, le cours a été revu, tu sais utiliser des documents. ",
+                    "bad_copie": "La carte :  villes doivent être placées correctement à la prochaine évaluation. Tu verras, les croquis de synthèse de géo de tous les chapitres vont se ressembler, il faudra placer à chaque fois les 12 villes, mers océans et pays voisins. \nLes réponses dans l'ensemble, manquent encore de précisions. Tu ne replaces pas toujours les mots clés alors que je suis sûre que tu les connais. Quand je pose une question sur document, j'attends très souvent un mot clé du cours : étalement urbain, périurbanisation, migration pendulaire. Regarde bien la correction sur elyco. \nParagraphe : il faut réussir à rédiger un paragraphe clair d'ici à Noël. avant d'écrire, rédige un plan au brouillon avec paragraphe 1 et mots clés, paragraphe 2 et mots clés. Tu verras que tes phrases seront plus précises. ",
+                    "good_class": "travail sérieux, quelques efforts de participation cette année, c'est bien. ",
+                    "bad_class": "participe au moins une fois par heure. "
+                },
+                {
+                    "name": "Ella",
+                    "grade": 18,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "C'est un excellent résultat, le cours est revu compris, les phrases sont bien rédigées et justifiées surtout avec les \" tout d'abord \" \" puis\". \nRédaction : bravo, c'est très juste et complet, bel effort. ",
+                    "bad_copie": "Quel dommage pour la carte...",
+                    "good_class": "excellente participation, beaucoup d'intérêt et de dynamisme en classe, continue !"
+                },
+                {
+                    "name": "Lisa",
+                    "grade": 14,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "Assez bon résultat. Le cours a été revu pour la partie 2 et la carte, c'est plutôt juste. ",
+                    "bad_copie": "Le paragraphe est un point à travailler très vite. Il va falloir le réussir d'ici aux vacances de Noël. Si tu ne l'as pas fait par manque de temps, c'est que le cours n'est pas encore assez revu. Plus il sera su, plus tu iras vite sur la première partie. ",
+                    "good_class": "Le travail peut être sérieux avec de bonnes idées. ",
+                    "bad_class": "Régulièrement trop de bavardages. Attention. "
+                },
+                {
+                    "name": "Zoé",
+                    "grade": 15,
+                    "alerte_cours": false,
+                    "alerte_comportement": false,
+                    "good_copie": "C'est un bon premier résultat. Le sujet a été aménagé ( notation sur 24 et non sur 34 ). le cours a été revu et il y a eu de vrais efforts pour rédiger, développer et justifier les réponses, bravo question 2. ",
+                    "bad_copie": "La carte : villes doivent être placées correctement à la prochaine évaluation. Tu verras, les croquis de synthèse de géo de tous les chapitres vont se ressembler, il faudra placer à chaque fois les 12 villes, mers océans et pays voisins. \nLe paragraphe : à réaliser la prochaine fois. Tu auras une évaluation avec une partie en moins parce que la rédaction te prends de toute façon plus de temps que les autres. Donc ne t'inquiète pas, ça va marcher. Et si jamais on arrive à trouver des moments libres dans l'emploi du temps, il est possible d'avoir la même évaluation mais en deux fois. ",
+                    "good_class": "Très bonne participation  !! Encore mieux que l'année dernière, bravo, continue. "
+                },
+                {
+                    "name": "Romain",
+                    "grade": 8,
+                    "alerte_cours": true,
+                    "alerte_comportement": false,
+                    "good_copie": "Quelques documents compris mais dans l'ensemble le cours n'est pas assez revu. ",
+                    "bad_copie": "La carte : les 12 villes doivent être connues, Méditerranée doit être écrit sans erreur pour le prochain test de géo. \nPour le paragraphe : tes phrases sont très peu claires, il faut absolument progresser là dessus : mettre des points et te demander ce que tu veux dire. si tu as des soucis particuliers en rédaction dis le moi, on pourrait trouver des solutions ensemble. En cours, quand je propose une activité paragraphe, il faut absolument que tu la termines et que je regarde comment tu t'y prends. \nPour tes réponses partie 2, il faut développer et détailler, utiliser plus les docs Regarde bien la correction envoyée sur elyco. ",
+                    "good_class": "Bonne participation en classe, tu te montres plutôt sérieux. ",
+                    "bad_class": "Attention à bien rattraper les cours en cas d'absence. Et surtout, ne te décourage pas, c'est une première note, tu ne peux que progresser. "
+                },
+                {
+                    "name": "Elodie",
+                    "grade": "8,5",
+                    "good_copie": "Quelques documents sont compris",
+                    "bad_copie": "Tes réponses sont souvent mélangées et ne sont pas précises. Question 1 répond à toute la question ( situer la ville ) question 2 il faut donner plus de détails. Paragraphe : tu utilises les mots clés sans toujours les comprendre. ",
+                    "good_class": "Le cours est pris en note et les activités sont à peu près faites. ",
+                    "bad_class": "Je ne peux pas t'aider si tu ne demandes jamais rien, si tu ne prends jamais la parole, si tu ne me dis jamais ce qui pose problème. Je vois bien que tu ne comprends pas toujours tout, il faut me le dire. Je compte sur toi pour participer une fois par heure en classe. ",
+                    "alerte_comportement": false,
+                    "alerte_cours": false
+                },
+                {
+                    "name": "Morgane",
+                    "grade": "10,5",
+                    "good_copie": "Plusieurs choses sont comprises : décrire une évolution, expliquer les problèmes de l'étalement urbain.",
+                    "bad_copie": "Mais tes réponses manquent de précision, tu ne développes pas assez . Question 2 étalement urbain périurbanisation. Sur le paragraphe, c'était bien parti. Pour la carte, il faut absolument la connaître par coeur. ",
+                    "good_class": "Assez bonne participation et surtout bonne volonté en classe. Surtout, ne te décourage pas. C'est un premier résultat de 3e, tu vas progresser à condition de faire des fiches régulièrement. ",
+                    "bad_class": "Trop de bavardages, le cours est souvent pris en note en retard. Je compte sur toi pour réviser davantage et gagner en précision. ",
+                    "alerte_comportement": false,
+                    "alerte_cours": false
+                },
+                {
+                    "name": "Anaïs",
+                    "grade": 10,
+                    "good_copie": "Quelques documents compris. Mais tu peux faire beaucoup mieux. ",
+                    "bad_copie": "Tes réponses ne sont pas assez développées. Question 1 donne des chiffres, question 2 donne les mots clé comme périurbanisation, étalement urbain. Paragraphe : tu es venue avec ce dont tu te souvenais des cours, dans l'ensemble, ce n'est pas assez revu. Carte : beaucoup trop d'erreurs, il faut qu'elle soit connue par coeur à la prochaine séquence de géo. ",
+                    "good_class": "parfois quelques efforts de participation. ",
+                    "bad_class": "arrête de râler, de te décourager et de dire d'avance que tu n'y arrivera pas. ",
+                    "alerte_comportement": false,
+                    "alerte_cours": false
+                },
+                {
+                    "name": "Quentin D",
+                    "grade": 11,
+                    "good_copie": "Les documents sont à peu près compris, il y a eu de vrais progrès et des efforts sur le paragraphe, par rapport à l'année dernière.  Tu développes plus et c'est plus précis. ",
+                    "bad_copie": "Gros problème qui te fait perdre beaucoup de points : la carte. Il faut absolument pouvoir situer les 12 aires urbaines principales par coeur pour la prochaine séquence de géo.  Evite de commencer une phrase par \" ça \" ou \"car\" reprend les termes de la question. ",
+                    "good_class": "Travail sérieux continue",
+                    "bad_class": "Participe une fois par heure...",
+                    "alerte_comportement": false,
+                    "alerte_cours": false
+                },
+                {
+                    "name": "Dylan",
+                    "grade": 14.75,
+                    "good_copie": "Les documents sont compris mais pas assez expliqués. Dans l'ensemble, plusieurs choses sont comprises ( étalement urbain )",
+                    "bad_copie": "Tu n'expliques pas assez et tes phrases ne sont pas assez claires. Question 2 on attend des mots clés comme périurbanisation, étalement urbain, périphérie. Question 3, on attend conflit d'usage, migration pendulaire. En fait, tu es arrivé en évaluation avec ce dont tu te souvenais, sans réelle révision. Pour le paragraphe, c'est entièrement à revoir, ça devrait venir d'ici à la fin du trimestre. ",
+                    "good_class": "parfois assez bonne participation",
+                    "bad_class": "Trop de bavardages, le cours est souvent pris en note en retard. Je compte sur toi pour réviser davantage et gagner en précision. ",
+                    "alerte_comportement": true,
+                    "alerte_cours": true
+                }
+            ]
+        
+}
