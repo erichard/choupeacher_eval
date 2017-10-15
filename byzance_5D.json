@@ -1,8 +1,12 @@
 {
-    "title": "Byzance",
-    "classe": "5D",
-    "date": "2017-10-07",
-    "id": "byzance",
-    "eleve": []
+	"title": "Byzance",
+	"classe": "5D",
+	"date": "2017-10-07",
+	"id": "byzance",
+	"eleve": [
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		}
+	]
 }
-       
