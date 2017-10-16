@@ -5,13 +5,267 @@
 	"id": "byzance",
 	"eleve": [
 		{
+			"name": "Carl",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "BRAVO excellent, toutes mes félicitations !!!\nle cours est revu compris, les documents aussi. ",
+			"bad_copie": "le paragraphe : il va falloir un peu plus de détails. Mais vraiment, c'est pour chipoter. ",
+			"good_class": "très bonne participation, travail très sérieux",
+			"bad_class": "continue !!"
+		},
+		{
+			"name": "Marie",
+			"grade": 16.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Bonne évaluation ! Le cours est revu sérieusement, les documents sont compris et le paragraphe bien réussi. ",
+			"bad_copie": "dommage pour la carte; trop de mélange. \n Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. Il faut plus de détail. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. "
+		},
+		{
+			"name": "Ethan",
+			"grade": 18,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Excellent résultat Ethan BRAVO !! quel beau progrès\nle cours est revu très sérieusement, les documents sont très bien compris. ",
+			"bad_copie": "Partie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. Il faut plus de détail. ( regarde bien la correction sur elyco )\n",
+			"good_class": "bonne participation travail sérieux",
+			"bad_class": "continue"
+		},
+		{
+			"name": "Raphaël",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bonne évaluation ! Le cours a été revu avec sérieux. \nparagraphe : bel effort. ",
+			"bad_copie": "dommage pour les mélanges sur la carte\n Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "bonne participation",
+			"bad_class": "attention parfois aux bavardages"
+		},
+		{
+			"name": "Eliette",
+			"grade": 17.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Très bonne évaluation bravo Eliette !\nPartie 1 : excellent ! ce sont de belles réponses détaillées !\nPartie 3 : BRAVO c'est excellent ! C'est bien rédigé et très complet. ",
+			"bad_copie": "quel dommage question 3, c'était sur doc 2 et 3 donc tu rates quelques éléments du textes.  \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\n",
+			"good_class": "excellente participation travail toujours très sérieux",
+			"bad_class": "continue !"
+		},
+		{
+			"name": "Karim",
+			"grade": 15,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Bonne évaluation ! Le cours a été revu, partie 1 très bien réussie. ",
+			"bad_copie": "Partie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "le travail demandé est fait",
+			"bad_class": "attention aux bavardages"
+		},
+		{
+			"name": "Antonin",
+			"grade": 14.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bonne évaluation. Le cours a été revu, tu connais très bien la carte bravo. ",
+			"bad_copie": " Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "parfois bonne participation",
+			"bad_class": "attention aux bavardages."
+		},
+		{
+			"name": "Malorie",
+			"grade": 14.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Bon devoir !\nBravo question b partie 1, c'est détaillé. \nTrès bel effort partie 3, c'était la plus difficile. ",
+			"bad_copie": "Il ne te manque pas grand chose pour avoir de très bons résultats. \n Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. Il faut ajouter des détails. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "très bonne participation, travail sérieux en classe",
+			"bad_class": "continue"
+		},
+		{
+			"name": "Garance",
+			"grade": 15,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est un bon devoir, le cours était vraiment revu et compris",
+			"bad_copie": "Partie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. Tu n'es pas loin de tout réussir. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "très bonne participation, travail très sérieux en classe, bravo"
+		},
+		{
+			"name": "Marek",
+			"grade": 13.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Comme quoi tu es capable ! Le cours a été revu en partie, tu connais les mots clés et la carte. Les documents sont compris. Ce résultat est vraiment encourageant Marek, il faut continuer en ce sens. ",
+			"bad_copie": " Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "parfois très bonne participation",
+			"bad_class": "Mais trop de bavardages. concentre toi en classe. "
+		},
+		{
+			"name": "Thomas",
+			"grade": 13.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Le cours a été revu en partie, tu connais très bien la carte. Les documents sont à peu près compris. ",
+			"bad_copie": " Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nquestion 6 : cela prouve qu'il y a des relations pacifiques entre les empires à cette époque. \nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "parfois des efforts de participation",
+			"bad_class": "Cesse immédiatement tes remarques hors sujet. \nCogner la table n'avance à rien, et les mots grossier non plus. \nQue se passe t-il ? Tu veux changer de place, certes, je t'ai dit non pour le moment, c'est comme ça. Tu dois être capable de travailler à côté de différentes personnes sans que cela ne pose de problème aussi important qu'il faille t'exclure. "
+		},
+		{
+			"name": "Mathis",
+			"grade": 13.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Assez bonne évaluation, le cours a été revu assez sérieusement. \nPour la partie 3, il y a de bonnes choses. ",
+			"bad_copie": " Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "bonne participation, travail sérieux",
+			"bad_class": "participe encore plus, ne te laisse pas distraire"
+		},
+		{
+			"name": "Maëna",
+			"grade": 13,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Assez bonne évaluation, le cours a été revu assez sérieusement. \nPour la partie 3, il y a de bonnes choses. ",
+			"bad_copie": "Mais le cours n'est pas revu dans les détails. Pour progresser, je te conseille de réaliser des fiches de résumé du cours avec les noms, mots clés, dates et éléments les plus importants. Tu n'es pas loin d'une très bonne note. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "travail assez sérieux en cours",
+			"bad_class": "participe encore plus"
+		},
+		{
+			"name": "Ewen S",
 			"grade": 11,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "q",
-			"bad_copie": "xd",
-			"good_class": "q",
-			"bad_class": "s"
+			"good_copie": "bravo pour la partie 3, c'était la plus difficile et tu l'as bien réussie. C'est vraiment encourageant. \nExcellente réponse question b de la partie 1, voilà une belle réponse détaillée !\nViens me voir à la fin de l'heure, il est possible que je modifie ta note en te posant quelques questions. ",
+			"bad_copie": "partie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "travail sérieux en classe, continue !",
+			"bad_class": "participe encore un peu plus ! "
+		},
+		{
+			"name": "Maud",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Cette note ne reflète pas ton sérieux en classe. Tu as perdu tes moyens à la partie 3 sur le paragraphe. \nLe cours a été revu en partie, mais pas en détail. ",
+			"bad_copie": "Partie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \npartie 2 question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nregarde bien la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais de plus. ",
+			"good_class": "parfois bonne participation, travail toujours sérieux",
+			"bad_class": "participe encore plus, tu vas progresser. "
+		},
+		{
+			"name": "Kahina",
+			"grade": 10,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Le cours a été revu en partie, tu sais à peu près la carte, les mots clés. ",
+			"bad_copie": "Partie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \n\nAttention à bien lire les consignes : question 3 c'était sur les documents 2 et 3. ",
+			"good_class": "les activités en classe sont faites",
+			"bad_class": "Attention parfois au bavardage. "
+		},
+		{
+			"name": "Evan",
+			"grade": 9,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "Le cours a été revu en partie. Les documents sont à peu près compris",
+			"bad_copie": "Partie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \n\nLe cours doit être revu avec plus de précision. Tu es capable de bien mieux. Pour progresse, je te conseille de réaliser des fiches de révision qui résument tout le chapitre. ",
+			"good_class": "parfois bonne participation",
+			"bad_class": "beaucoup trop de bavardages et de jeux. Il va falloir être plus concentré en classe. "
+		},
+		{
+			"name": "Nicolas",
+			"grade": 7.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "le cours est à peu près revu",
+			"bad_copie": "Mais les documents ne sont pas compris. Pour progresser, il faut davantage lire les questions, plusieurs fois. exemple question 5 : Haroun est musulman ( il y avait des indices dans le texte. On te demande quel EMPIRE donc c'est forcément un des trois carolingien byzantin ou musulman et non Orient, beaucoup trop vague )\nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. ",
+			"good_class": "assez bonne participation",
+			"bad_class": "mets toi rapidement au travail quand je donne une activité\n\ndès qu'il y a un paragraphe à faire, il faut absolument t'entraîner. "
+		},
+		{
+			"name": "Rayan",
+			"grade": 8.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "les documents sont à peu près compris. ",
+			"bad_copie": "Le cours n'est pas revu avec assez de précision. Par exemple, schisme doit être su par coeur. \nPartie 3 : c'est la plus difficile. D'ici Noël, tu dois pouvoir rédiger un petit paragraphe sur un sujet. Pense aux questions de base en histoire ( qui quand quoi où ) tu dois avoir des dates, des noms des lieux, le tout dans l'ordre chronologique. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Rayan. ",
+			"good_class": "parfois bonne participation",
+			"bad_class": "attentions aux bavardages. \nMets toi plus vite au travail quand je donne une activité. "
+		},
+		{
+			"name": "Flavie",
+			"grade": 5.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "Certains éléments du cours sont revus. ",
+			"bad_copie": "Le cours est très peu revu. Tu es arrivée avec ce dont tu te souvenais. J'attends bien plus et bien mieux de ta part car tu es capable de bien faire. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Flavie.",
+			"good_class": "parfois bonne participation. ",
+			"bad_class": "lève la main pour prendre la parole. \nCesse très vite tes commentaires hors sujet. \nTu es capable de beaucoup plus que ce que tu montres. Alors au travail. "
+		},
+		{
+			"name": "Cameron",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "Les questions de cours sont réussies, donc tu retiens ce qu'il se passe en cours. ",
+			"bad_copie": "Le cours est peu revu. Tu es arrivé avec ce dont tu te souvenais. J'attends bien plus et bien mieux de ta part car tu es capable de bien faire. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Cameron.\nTu te décourages sur les questions sur document c'est dommage. ",
+			"good_class": "De gros progrès dans la tenue du cahier, au moins en début d'année. Les feuilles étaient collées, l'écriture beaucoup plus lisible. Et il y a eu des efforts pour participer. ",
+			"bad_class": "Arrête les déplacements en cours et les jets de papier. "
+		},
+		{
+			"name": "Cassandra",
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "Certains éléments du cours sont connus, preuve que tu as revu le cours ou que tu retiens bien à l'oral ce qu'il se passe en classe. ",
+			"bad_copie": "Les documents ne sont pas du tout compris.\nQuestion 5 : Haroun appartient à l'empire musulman. ( son nom à consonnance arabe + tout ce qui est dit dans le texte )\nquestion 6 : Charlemagne et Haroun s'offrent des cadeaux, ils sont donc amis, cela prouve que les empires carolingien et musulman peuvent avoir des contacts pacifique. On l'avait vu en cours. \nLe cours peu revu. Tu es arrivée avec ce dont tu te souvenais. J'attends bien plus et bien mieux de ta part car tu es capable de bien faire. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Cassandra. Pense à ta première note de qcm, 100/100. ",
+			"good_class": "Parfois bonne participation.",
+			"bad_class": "Attention aux bavardages et à la façon dont tu me réponds. Tu est à la limite de l'insolence et ce n'est pas admissible. "
+		},
+		{
+			"name": "Luxiana",
+			"grade": 5.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "Les documents sont  peu près compris",
+			"bad_copie": "Le cours n'est absolument pas revu. Tu es arrivée avec ce dont tu te souvenais. Il y a de gros mélanges.  J'attends bien plus et bien mieux de ta part car tu es capable de bien faire. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Luxiana. ",
+			"good_class": "parfois bonne participation.",
+			"bad_class": "Beaucoup trop de bavardages et de jeux. Il va falloir te concentrer bien plus que cela pour progresser.\nAttention à ta façon de me répondre, c'est à la limite de l'insolence. Tes remarques hors sujets et tes bavardages empêchent certains élèves de progresser. "
+		},
+		{
+			"name": "Léa C",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "Les documents sont à peu près compris, preuve que tu es largement capable. ",
+			"bad_copie": "Le cours n'est absolument pas revu. Tu es arrivée avec ce dont tu te souvenais. J'attends bien plus et bien mieux de ta part car tu es capable de bien faire. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Léa.",
+			"bad_class": "Beaucoup trop de bavardages en classe. \nFais attention, tu es parfois à la limite de l'insolence quand je te pose une question. Tu évites régulièrement le travail, en attendant que l'heure passe. Tu peux faire tellement plus et mieux. "
+		},
+		{
+			"name": "Fatine",
+			"grade": 3.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "tu parviens à te souvenir de quelques éléments du cours. ",
+			"bad_copie": "Le cours n'est absolument pas revu. Tu es arrivée avec ce dont tu te souvenais. J'attends bien plus et bien mieux de ta part car tu es capable de bien faire. \nNe recopie pas les questions, c'est une perte de temps. \nRegarde la correction envoyée sur elyco, cela va te permettre de comprendre ce que j'attendais. Il va falloir plus de travail personnel Fatine. ",
+			"good_class": "Parfois tu participes",
+			"bad_class": "Mais bien trop de bavardages en classe. Concentre toi davantage pour progresser. Tu es capable de faire tellement bien, j'en suis sûre. "
+		},
+		{
+			"name": "Kyllian L",
+			"grade": 2.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "le cours est à revoir en entier. \nJ'attends des efforts de ta part. Tu n'a même pas essayé de comprendre le devoir. ",
+			"bad_class": "tu attends que l'heure passe sans essayer de comprendre ce qu'il se passe. \nIl est grand temps de te mettre au travail. "
+		},
+		{
+			"name": "Killian G",
+			"grade": 1,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "Evaluation faite avec le cahier ouvert. ",
+			"bad_copie": "le cours est à revoir en entier. \nJ'attends des efforts de ta part. Tu n'a même pas essayé de comprendre le devoir. \nLes cours doivent être récupérés pour toutes les absences. ",
+			"good_class": "parfois un peu de participation",
+			"bad_class": "trop de jeux, de bavardages, parfois des déplacements sans autorisation. "
 		}
 	]
 }
