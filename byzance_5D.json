@@ -5,7 +5,6 @@
 	"id": "byzance",
 	"eleve": [
 		{
-			"name": "Dylan",
 			"grade": 11,
 			"alerte_cours": false,
 			"alerte_comportement": false,
