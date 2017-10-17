@@ -6,8 +6,10 @@
 	"eleve": [
 		{
 			"name": "Léna",
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"grade": 8,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "c'est un premier résultat de 6e, pas de panique, tu vas largement progresser. "
 		},
 		{
 			"name": "Melda",
