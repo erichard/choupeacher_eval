@@ -6,7 +6,8 @@
 	"eleve": [
 		{
 			"name": "Melda",
-			"alerte_cours": false,
+			"grade": 6,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
