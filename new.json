@@ -6,7 +6,8 @@
 	"eleve": [
 		{
 			"name": "Salhia",
-			"alerte_cours": false,
+			"grade": 8.5,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
