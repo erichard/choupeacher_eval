@@ -11,7 +11,8 @@
 			"alerte_comportement": false,
 			"good_copie": " c'est un bon devoir ! Tu devrais largement progresser encore. Le cours a été revu, bravo question 1 de la partie 2 c'est complet. \nles documents sont compris et la partie 3 est réussie. ",
 			"bad_copie": "il ne te manque pas grand chose pour avoir d'excellents résultats. \n\nPartie 3. C'est la plus difficile. Tu dois être capable de réaliser un paragraphe de quelques lignes d'ici à Noël. Pense aux questions de base en histoire ( qui quand quoi où )",
-			"good_class": "excellente participation travail très sérieux"
+			"good_class": "excellente participation travail très sérieux",
+			"bad_class": "ne panique pas en devoir. Tu es largement capable de réussir, j'ai confiance en toi. "
 		},
 		{
 			"name": "Donovan",
