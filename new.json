@@ -5,12 +5,17 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Zoé",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "Bon devoir ! c'est très encourageant. Le cours a été revu sérieusement, les phrases sont claires les documents sont compris. \nBonne rédaction partie 3. ",
-			"bad_copie": "il ne te manque pas grand chose pour avoir d'excellents résultats. \nSois plus précise partie 1, il te manque quelques éléments du cours. \n\nPartie 3. C'est la plus difficile. Tu dois être capable de réaliser un paragraphe de quelques lignes d'ici à Noël. Pense aux questions de base en histoire ( qui quand quoi où )"
+			"bad_copie": "il ne te manque pas grand chose pour avoir d'excellents résultats. \nSois plus précise partie 1, il te manque quelques éléments du cours. \n\nPartie 3. C'est la plus difficile. Tu dois être capable de réaliser un paragraphe de quelques lignes d'ici à Noël. Pense aux questions de base en histoire ( qui quand quoi où )",
+			"good_class": "très bonne participation, travail très sérieux en classe continue !"
 		},
 		{
 			"name": "Abby",
