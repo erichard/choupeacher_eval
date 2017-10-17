@@ -9,7 +9,9 @@
 			"grade": 18,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "BRAVO c'est un excellent devoir !\nle cours est revu sérieusement, les documents sont compris la rédaction partie 3 est intéressante"
+			"good_copie": "BRAVO c'est un excellent devoir !\nle cours est revu sérieusement, les documents sont compris la rédaction partie 3 est intéressante et claire. ",
+			"bad_copie": "CONTINUE ! ",
+			"good_class": "excellente participation travail très sérieux ! "
 		},
 		{
 			"name": "Zoé S",
