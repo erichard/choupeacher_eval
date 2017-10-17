@@ -5,6 +5,7 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "Salhia",
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
