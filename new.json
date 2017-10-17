@@ -6,10 +6,10 @@
 	"eleve": [
 		{
 			"name": "Nina",
-			"grade": 14.5,
+			"grade": 15.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "ne sois pas déçue, c'est un bon devoir. Tu devrais largement progresser. Le cours a été revu, bravo question 1 de la partie 2 c'est complet. \nles documents sont compris et la partie 3 est réusie. "
+			"good_copie": " c'est un bon devoir. Tu devrais largement progresser. Le cours a été revu, bravo question 1 de la partie 2 c'est complet. \nles documents sont compris et la partie 3 est réusie. "
 		},
 		{
 			"name": "Donovan",
