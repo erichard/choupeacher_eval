@@ -5,6 +5,10 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Donovan",
 			"grade": 13,
 			"alerte_cours": false,
