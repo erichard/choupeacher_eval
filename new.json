@@ -5,6 +5,7 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "Oriane",
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
