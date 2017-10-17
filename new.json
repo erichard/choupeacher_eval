@@ -6,8 +6,9 @@
 	"eleve": [
 		{
 			"name": "Oriane",
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"grade": 4,
+			"alerte_cours": true,
+			"alerte_comportement": true
 		},
 		{
 			"alerte_cours": false,
