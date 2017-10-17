@@ -9,7 +9,9 @@
 			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir, les cours ont été revu. \nbravo pour la question b partie 1. \nles documents sont compris"
+			"good_copie": "bon devoir, les cours ont été revu. \nbravo pour la question b partie 1. \nles documents sont compris",
+			"bad_copie": "il ne te manque pas grand chose pour avoir d'excellents résultats. \n\nPartie 3. C'est la plus difficile. Tu dois être capable de réaliser un paragraphe de quelques lignes d'ici à Noël. Pense aux questions de base en histoire ( qui quand quoi où )",
+			"good_class": "bonne participation travail sérieux"
 		},
 		{
 			"name": "Emili",
