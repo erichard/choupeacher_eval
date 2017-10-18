@@ -5,12 +5,18 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Enola",
 			"grade": 9,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "excellente réponse question 2 partie 2. ",
-			"bad_copie": "partie 3 peu claire, le cours a été revu mais pas dans les détails partie 2 question "
+			"bad_copie": "partie 3 peu claire, le cours a été revu mais pas dans les détails \nDe manière générale il faudra bien lire la correction envoyée sur elyco pour comprendre ce que j'attendais. \nPartie 3 : tu dois être capable de rédiger un paragraphe d'ici Noël, il faut travailler ce domaine sérieusement. \nLa carte est à bien connaître. ",
+			"good_class": "travail très sérieux en classe et bonne participation",
+			"bad_class": "ne te décourage pas, ton travail est sérieux tu vas progresser"
 		},
 		{
 			"name": "Anthony",
