@@ -5,12 +5,18 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Elliot",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon devoir !\nles réponses aux questions de doc sont détaillées et précises ce qui montre que le cours a été revu. ",
-			"bad_copie": "La carte te fait perdre trop de points, il faudra plus la revoir\n"
+			"bad_copie": "La carte te fait perdre trop de points, il faudra plus la revoir\nparagraphe entièrement à revoir ( correction sur elyco ) ou alors manque de temps ? ",
+			"good_class": "travail très sérieux et bonne participation",
+			"bad_class": "mais trop de bavardages\nreste concentré"
 		},
 		{
 			"name": "Samléo",
