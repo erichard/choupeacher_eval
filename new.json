@@ -8,7 +8,8 @@
 			"name": "Alicia",
 			"grade": 13,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Bonne évaluation. \nBravo question 2 c'est détaillé ! \n"
 		},
 		{
 			"name": "Marion",
