@@ -5,13 +5,18 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Iliès",
 			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bonne évaluation, de vrais progrès. \nbravo question 1 c'est détaillé, pareil question 2, tu fais de vrais efforts. ",
 			"bad_copie": "c'est la carte qui te fait perdre beaucoup de points. \nparagraphe : il faut maintenant travailler la clarté de ce que tu veux dire. Tu as plein d'idées mais tout se mélange. Pour cela, il faut un plan au brouillon. ",
-			"good_class": "de gros efforts en classe. "
+			"good_class": "de gros efforts en classe. Excellente participation, travail très sérieux et rapide. ",
+			"bad_class": "attention par contre\n1. Lève la main pour intervenir\n2. Occupe toi de ton cours et uniquement de ton cours...tes remarques gênent certains élèves plus timides et plus en difficulté. "
 		},
 		{
 			"name": "Alicia",
