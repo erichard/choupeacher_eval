@@ -8,7 +8,8 @@
 			"name": "Marion",
 			"grade": 13,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "C'est un bon résultat. Le cours a été revu sérieusement. \nBravo question 1 c'est très détaillé. "
 		},
 		{
 			"name": "Rayane",
