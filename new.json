@@ -5,8 +5,11 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"name": "Allan",
+			"grade": 15,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon devoir ! \ntravail sérieux, cours compris\nc'est très détaillé pour les réponses sur document bravo\nparagraphe : la technique est comprise, il y a de gros efforts bravo"
 		},
 		{
 			"name": "Elliot",
