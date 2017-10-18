@@ -8,7 +8,8 @@
 			"name": "Alexia",
 			"grade": 10,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"bad_copie": "Dommage Lyon est au sud Est..."
 		},
 		{
 			"name": "Baptiste ",
