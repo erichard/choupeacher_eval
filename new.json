@@ -9,7 +9,10 @@
 			"grade": 16,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir ! réponse détaillés sur les documents\net surtout excellent paragraphe"
+			"good_copie": "bon devoir ! réponse détaillés sur les documents\net surtout excellent paragraphe, technique comprise",
+			"bad_copie": "c'est la carte qui te fait perdre des points, elle sera à bien revoir",
+			"good_class": "travail sérieux",
+			"bad_class": "participe plus en cours"
 		},
 		{
 			"name": "Emma",
