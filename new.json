@@ -8,7 +8,8 @@
 			"name": "Kylian",
 			"grade": 12,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Assez bonne évaluation. "
 		},
 		{
 			"name": "Arthur",
