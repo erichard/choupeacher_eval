@@ -8,7 +8,8 @@
 			"name": "Lou-Anne",
 			"grade": 8,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Tu sais situer à plusieurs échelles\nTu sais lire une carte, mais tu ne justifie pas tes réponses\nl'idée principale du cours est comprise"
 		},
 		{
 			"name": "Kyllian",
