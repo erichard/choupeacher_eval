@@ -5,12 +5,20 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"name": "Jules",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Bon devoir !\nles questions sur doc "
+		},
+		{
 			"name": "Allan",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon devoir ! \ntravail sérieux, cours compris\nc'est très détaillé pour les réponses sur document bravo\nparagraphe : la technique est comprise, il y a de gros efforts bravo",
-			"bad_copie": "la carte te fait perdre beaucoup de point dommage\nregarde la correction sur elyco pour progresser"
+			"bad_copie": "la carte te fait perdre beaucoup de point dommage\nregarde la correction sur elyco pour progresser",
+			"good_class": "travail très sérieux en cours très bonne participation continue"
 		},
 		{
 			"name": "Elliot",
