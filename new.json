@@ -5,8 +5,11 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"name": "Jimmy",
+			"grade": 13,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bonne évaluation, de gros progrès et beaucoup d'effort. \nbravo question 1 c'est détaillé, pareil question 2. "
 		},
 		{
 			"name": "Iliès",
