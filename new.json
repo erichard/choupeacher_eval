@@ -9,7 +9,8 @@
 			"grade": 9,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "excellente réponse question 2 partie 2. "
+			"good_copie": "excellente réponse question 2 partie 2. ",
+			"bad_copie": "partie 3 peu claire"
 		},
 		{
 			"name": "Anthony",
