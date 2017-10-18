@@ -11,7 +11,8 @@
 			"alerte_comportement": false,
 			"good_copie": "Bon devoir ! \nles questions sur documents sont détaillées et précises\nbonne carte",
 			"bad_copie": "c'est le paragraphe qui pose problème. Il va falloir continuer le travailler en classe. Il faut plus de détail plus de mots clés. \nregarde bien la correction envoyée sur elyco cela va te permettre de mieux comprendre ce que j'attendais. ",
-			"good_class": "Cela va venir..."
+			"good_class": "Cela va venir...",
+			"bad_class": "inutile d'y revenir, je compte sur toi\nn'hésite pas à me dire quand tu ne comprends pas. "
 		},
 		{
 			"name": "Jules",
