@@ -5,7 +5,9 @@
 	"id": "go-squences-1-et-2",
 	"eleve": [
 		{
-			"alerte_cours": false,
+			"name": "Lyta",
+			"grade": 4,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
