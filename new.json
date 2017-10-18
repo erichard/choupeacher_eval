@@ -5,6 +5,10 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Lyta",
 			"grade": 4,
 			"alerte_cours": true,
