@@ -9,7 +9,8 @@
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir ! \ntravail sérieux, cours compris\nc'est très détaillé pour les réponses sur document bravo\nparagraphe : la technique est comprise, il y a de gros efforts bravo"
+			"good_copie": "bon devoir ! \ntravail sérieux, cours compris\nc'est très détaillé pour les réponses sur document bravo\nparagraphe : la technique est comprise, il y a de gros efforts bravo",
+			"bad_copie": "la carte te fait perdre beaucoup de point dommage\nregarde la correction sur elyco pour progresser"
 		},
 		{
 			"name": "Elliot",
