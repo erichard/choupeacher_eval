@@ -9,7 +9,8 @@
 			"grade": 14,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "Bonne évaluation ! \nbravo question 2 c'est détaillé"
+			"good_copie": "Bonne évaluation ! \nbravo question 2 c'est détaillé\nbien pour la carte\nbel effort pour l paragraphe",
+			"bad_copie": "il ne te manque pas grand chose pour avoir d'excellentes notes\n- plus précis ( mots clés ) dans le paragraphe et faire des points"
 		},
 		{
 			"name": "Jimmy",
