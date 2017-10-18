@@ -5,11 +5,18 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Alicia",
 			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "Bonne évaluation. \nBravo question 2 c'est détaillé ! \n"
+			"good_copie": "Bonne évaluation. \nBravo question 2 c'est détaillé ! \nle paragraphe : le principe est compris, le cours a été revu",
+			"bad_copie": "il faut plus de mots clés, plus de détails. ",
+			"good_class": "travail très sérieux bonne participation",
+			"bad_class": "il ne te manque pas grand chose pour avoir d'excellents résultats"
 		},
 		{
 			"name": "Marion",
