@@ -5,8 +5,10 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"name": "Théo",
+			"grade": 5,
+			"alerte_cours": true,
+			"alerte_comportement": true
 		},
 		{
 			"name": "Antoine",
