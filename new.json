@@ -8,7 +8,8 @@
 			"name": "Lyta",
 			"grade": 4,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"bad_copie": "très peu de choses sont comprises"
 		}
 	]
 }
