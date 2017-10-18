@@ -9,7 +9,10 @@
 			"grade": 16,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "Bon devoir !\nles questions sur doc sont bien détaillées c'est compris\nbravo pour le paragraphe : beaucoup d'effort et bonne technique"
+			"good_copie": "Bon devoir !\nles questions sur doc sont bien détaillées c'est compris\nbravo pour le paragraphe : beaucoup d'effort et bonne technique",
+			"bad_copie": "la carte te fait perdre trop de point dommage",
+			"good_class": "travail assez sérieux et bonne participation",
+			"bad_class": "mais trop de bavardages"
 		},
 		{
 			"name": "Allan",
