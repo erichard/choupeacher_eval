@@ -7,7 +7,7 @@
 		{
 			"name": "Romane",
 			"grade": 8,
-			"alerte_cours": false,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
