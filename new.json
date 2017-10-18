@@ -5,8 +5,11 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"name": "Léa",
+			"grade": 8,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "c'est un premier résultat, ne te décourage pas. Tu es largement capable de progresser. "
 		},
 		{
 			"name": "Enola",
