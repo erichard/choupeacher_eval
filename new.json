@@ -6,8 +6,10 @@
 	"eleve": [
 		{
 			"name": "Iliès",
+			"grade": 13,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bonne évaluation, de vrais progrès. \nbravo question 1 c'est détaillé, pareil question 2, tu fais de vrais efforts. "
 		},
 		{
 			"name": "Alicia",
