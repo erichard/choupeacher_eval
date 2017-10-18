@@ -8,7 +8,8 @@
 			"name": "Romane",
 			"grade": 8,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "c'est un premier résultat, ne te décourage pas. Tu es largement capable de progresser. \ntu sais situer à plusieurs échelles. "
 		},
 		{
 			"name": "Léa",
