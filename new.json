@@ -5,6 +5,8 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"name": "Enola",
+			"grade": 9,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
