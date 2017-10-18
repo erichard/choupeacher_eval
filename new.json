@@ -5,12 +5,18 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Chloée",
 			"grade": 11,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "Pas de panique c'est un premier résultat. Ton travail très sérieux en classe montre que tu es largement capable de progresser. \nLes documents sont compris, les réponses sont très détaillées ( bravo question 2 )",
-			"bad_copie": "la carte t'a posé beaucoup de soucis. \nDe manière générale il faudra bien lire la correction envoyée sur elyco pour comprendre ce que j'attendais. \nPartie 3 : tu dois être capable de rédiger un paragraphe d'ici Noël, il faut travailler ce domaine sérieusement. Il te manque beaucoup de mots clés. \nLa carte est à bien connaître. "
+			"bad_copie": "la carte t'a posé beaucoup de soucis. \nDe manière générale il faudra bien lire la correction envoyée sur elyco pour comprendre ce que j'attendais. \nPartie 3 : tu dois être capable de rédiger un paragraphe d'ici Noël, il faut travailler ce domaine sérieusement. Il te manque beaucoup de mots clés. \n",
+			"good_class": "travail extrêmement sérieux en classe, excellente participation en classe bravo",
+			"bad_class": "continue ne te décourage pas"
 		},
 		{
 			"name": "Paul",
