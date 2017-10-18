@@ -1,0 +1,10 @@
+{
+	"title": "Géo aires urbaines espaces pro",
+	"id": "go-aires-urbaines-espaces-pro",
+	"eleve": [
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		}
+	]
+}
