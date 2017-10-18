@@ -9,7 +9,8 @@
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir !\nles réponses aux questions de doc sont détaillées et précises ce qui montre que le cours a été revu. "
+			"good_copie": "bon devoir !\nles réponses aux questions de doc sont détaillées et précises ce qui montre que le cours a été revu. ",
+			"bad_copie": "La carte te fait perdre trop de points, il faudra plus la revoir\n"
 		},
 		{
 			"name": "Samléo",
