@@ -5,6 +5,8 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"name": "Alicia",
+			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
