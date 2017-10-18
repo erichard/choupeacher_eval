@@ -5,6 +5,8 @@
 	"id": "go-aires-urbaines-espaces-pro",
 	"eleve": [
 		{
+			"name": "Romane",
+			"grade": 8,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
