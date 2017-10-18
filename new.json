@@ -9,8 +9,10 @@
 			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bonne évaluation, de gros progrès et beaucoup d'effort. \nbravo question 1 c'est détaillé, pareil question 2. ",
-			"bad_copie": "la carte te fait perdre des points"
+			"good_copie": "bonne évaluation, de gros progrès et beaucoup d'effort. \nbravo question 1 c'est détaillé, pareil question 2. \ndes efforts pour le paragraphe",
+			"bad_copie": "la carte te fait perdre des points\nparagraphe : il faut que ce soit plus clair, plus détaillé. Cela va venir.",
+			"good_class": "bonne participation, le travail demandé est fait",
+			"bad_class": "mais trop de bavardages ! "
 		},
 		{
 			"name": "Iliès",
