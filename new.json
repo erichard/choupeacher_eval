@@ -8,7 +8,8 @@
 			"name": "Enola",
 			"grade": 9,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "excellente réponse question 2 partie 2. "
 		},
 		{
 			"name": "Anthony",
