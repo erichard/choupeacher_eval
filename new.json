@@ -5,11 +5,17 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Wendy",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "très bon devoir ! les réponses sont très détaillées il y a beaucoup d'effort. \n"
+			"good_copie": "très bon devoir ! les réponses sont très détaillées il y a beaucoup d'effort. \nles documents sont compris; Il ne te manque pas grand chose pour avoir 18",
+			"bad_copie": "c'est la paragraphe qui pose un peu de souci, cela va venir ne t'inquiète pas. Regarde bien la correction envoyée sur elyco pour comprendre ce que j'attendais",
+			"good_class": "très bonne participation travail sérieux"
 		},
 		{
 			"name": "gaël",
