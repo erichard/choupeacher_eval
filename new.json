@@ -5,12 +5,18 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Killian",
 			"grade": 11.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "encore un peu trop juste mais le cours est compris. \nLes documents aussi, c'est encourageant. \ntrès bon paragraphe !",
-			"bad_copie": "dommage pour le partie 1, c'étai"
+			"bad_copie": "dommage pour le partie 1, ce sont des questions de cours. Tu perds des points sur le plus simple. \nregarde bien la correction envoyée sur elyco. ",
+			"good_class": "travail sérieux, parfois bonne participation",
+			"bad_class": "participe plus, une fois par heure au moins. "
 		},
 		{
 			"name": "Clara",
