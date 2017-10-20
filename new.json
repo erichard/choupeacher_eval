@@ -9,7 +9,9 @@
 			"grade": 20,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "BRAVO !!!! Félicitations ! \nle cours a été revu très sérieusement les documents sont compris"
+			"good_copie": "BRAVO !!!! Félicitations ! \nle cours a été revu très sérieusement les documents sont compris",
+			"bad_copie": "partie 3 il te manque quelques détails tu peux regarder la correction sur elyco",
+			"good_class": "travail très sérieux très bonne participation continue ! "
 		},
 		{
 			"name": "Loane",
