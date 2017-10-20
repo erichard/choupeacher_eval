@@ -5,8 +5,11 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "MAthieu",
+			"grade": 10,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "c'est encore un peu trop juste, tu peux largement progresser. Pas de panique, c'est un premier devoir. "
 		},
 		{
 			"name": "Renaud",
