@@ -10,7 +10,9 @@
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "assez bon devoir, le cours a été revu et l'essentiel est compris. \nC'est vraiment bien pour les documents et le paragraphe. ",
-			"bad_copie": "Partie 1, question 3 : Afrique. \n\nPartie 2 : il manque la question 3 regarde bien la correction envoyée sur elyco. \n\nPartie 3 : c'est la plus difficile, il faut que tu sois capable de rédiger quelques lignes d'ici Noël. Cela va venir. "
+			"bad_copie": "Partie 1, question 3 : Afrique. \n\nPartie 2 : il manque la question 3 regarde bien la correction envoyée sur elyco. \n\nPartie 3 : c'est la plus difficile, il faut que tu sois capable de rédiger quelques lignes d'ici Noël. Cela va venir. ( plus de mots clés et de détails )",
+			"good_class": "bonne participation travail sérieux",
+			"bad_class": "participe encore plus ! "
 		},
 		{
 			"name": "Enora",
