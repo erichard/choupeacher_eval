@@ -5,6 +5,13 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "Gianni",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Ne sois pas déçu. C'est un premier devoir de 6e, tu vas largement progresser. "
+		},
+		{
 			"name": "Marie",
 			"grade": 12,
 			"alerte_cours": false,
