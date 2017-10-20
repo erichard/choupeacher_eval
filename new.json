@@ -5,7 +5,9 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
-			"alerte_cours": false,
+			"name": "Lua C",
+			"grade": 7,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
