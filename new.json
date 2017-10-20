@@ -5,7 +5,9 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
-			"alerte_cours": false,
+			"name": "Alexia",
+			"grade": 3,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		}
 	]
