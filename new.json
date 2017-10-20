@@ -9,7 +9,10 @@
 			"grade": 15.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir ! Le cours a été revu très sérieusement c'est encourageant. Les documents sont compris. "
+			"good_copie": "bon devoir ! Le cours a été revu très sérieusement c'est encourageant. Les documents sont compris. ",
+			"bad_copie": "c'est la paragraphe qui pose un peu de souci, cela va venir ne t'inquiète pas. Regarde bien la correction envoyée sur elyco pour comprendre ce que j'attendais",
+			"good_class": "très bonne participation travail sérieux",
+			"bad_class": "attention parfois quelques bavardages"
 		},
 		{
 			"name": "Wendy",
