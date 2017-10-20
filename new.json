@@ -9,7 +9,8 @@
 			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "assez bon devoir. Ne t'inquiète pas, tu devrais largement progresser. "
+			"good_copie": "assez bon devoir. Ne t'inquiète pas, tu devrais largement progresser. le cours a été revu est compris. Les documents sont bien compris. ",
+			"bad_copie": "Il manque des détails"
 		},
 		{
 			"name": "Gianni",
