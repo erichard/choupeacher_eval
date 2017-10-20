@@ -5,8 +5,11 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "Clara",
+			"grade": 16,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Bon devoir ! le cours est revu sérieusement et compris, les documents aussi et tes réponses sont personnelles donc les méthodes sont bien acquises. "
 		},
 		{
 			"name": "Doryan",
