@@ -5,8 +5,11 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "Elias",
+			"grade": 15.5,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon devoir ! "
 		},
 		{
 			"name": "Wendy",
