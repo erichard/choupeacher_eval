@@ -10,7 +10,8 @@
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "BRAVO !!!! Félicitations ! \nle cours a été revu très sérieusement les documents sont compris\n",
-			"bad_copie": "partie 3 il te manque quelques détails tu peux regarder la correction sur elyo"
+			"bad_copie": "partie 3 il te manque quelques détails tu peux regarder la correction sur elyo",
+			"good_class": "travail très sérieux bonne participation continue ! "
 		},
 		{
 			"name": "Elias",
