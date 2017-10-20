@@ -5,11 +5,17 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "gaël",
 			"grade": 16,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "Bon devoir ! cours revu et compris, c'est sérieux. \nles documents sont très bien compris, c'est vraiment encourageant"
+			"good_copie": "Bon devoir ! cours revu et compris, c'est sérieux. \nles documents sont très bien compris, c'est vraiment encourageant\ntrès bon paragraphe",
+			"bad_copie": "il manque quelques détails au paragraphe mais cela va venir. Regarde bien la correction envoyée sur elyco. ",
+			"good_class": "très bonne participation en classe, travail sérieux"
 		},
 		{
 			"name": "Samuel",
