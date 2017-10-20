@@ -5,6 +5,8 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"name": "Manël",
+			"grade": 11,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
