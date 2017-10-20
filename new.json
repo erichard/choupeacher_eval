@@ -8,7 +8,8 @@
 			"name": "Lua C",
 			"grade": 7,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "C'est une première évaluation, tu peux largement progresser, pas de panique"
 		},
 		{
 			"name": "Haïlie",
