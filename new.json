@@ -9,7 +9,8 @@
 			"grade": 14.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir ! cours revu sérieusement documents compris"
+			"good_copie": "bon devoir ! cours revu sérieusement documents compris",
+			"bad_copie": "\nPartie 3 : c'est la plus difficile, il faut que tu sois capable de rédiger quelques lignes d'ici Noël. Cela va venir. "
 		},
 		{
 			"name": "Antonin",
