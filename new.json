@@ -1,0 +1,11 @@
+{
+	"title": "Préhistoire",
+	"classe": "6E",
+	"id": "prhistoire",
+	"eleve": [
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		}
+	]
+}
