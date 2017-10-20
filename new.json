@@ -5,12 +5,18 @@
 	"id": "prhistoire",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Louna C",
 			"grade": 14.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon devoir ! cours revu sérieusement documents compris",
-			"bad_copie": "\nPartie 3 : c'est la plus difficile, il faut que tu sois capable de rédiger quelques lignes d'ici Noël. Cela va venir. "
+			"bad_copie": "\nPartie 3 : c'est la plus difficile, il faut que tu sois capable de rédiger quelques lignes d'ici Noël. Cela va venir. regarde bien la correction sur elyco pour comprendre ce que j'attendais",
+			"good_class": "travail sérieux en classe",
+			"bad_class": "participe encore un peu plus"
 		},
 		{
 			"name": "Antonin",
