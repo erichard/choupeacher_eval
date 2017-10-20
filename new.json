@@ -9,7 +9,8 @@
 			"grade": 19.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "BRAVO !!!! Félicitations ! "
+			"good_copie": "BRAVO !!!! Félicitations ! \nle cours a été revu très sérieusement les documents sont compris\n",
+			"bad_copie": "partie 3 il te manque quelques détails tu peux regarder la correction sur elyo"
 		},
 		{
 			"name": "Elias",
