@@ -8,7 +8,8 @@
 			"name": "Arthur",
 			"grade": 11,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Documents compris"
 		},
 		{
 			"name": "Jules",
