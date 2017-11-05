@@ -5,8 +5,11 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"name": "Lou-Anne",
+			"grade": 7,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "Les documents sont compris"
 		},
 		{
 			"name": "Sarah",
