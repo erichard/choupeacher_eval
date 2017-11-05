@@ -5,6 +5,10 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Arthur",
 			"grade": 11,
 			"alerte_cours": false,
@@ -12,7 +16,7 @@
 			"good_copie": "Documents compris, des efforts dans le paragraphe\n\ntu peux faire tellement plus...",
 			"bad_copie": "Partie 1 à revoir pour les dates..Deux choses que je demande par coeur à tous les devoirs : dates et cartes. \nPartie 2 : Regarde la correction envoyée sur elyco cela va t'aider à comprendre ce que j'attends, à être encore plus précis. \nPartie 3 : On te demande en quoi la guerre a transformé l'Europe.Tu dois parler des changements. ( violence de masse, génocide, brutalisation révolution russe, fin des Empires en 1918 1919, travail des femmes ) Attention, il faut absolument lire la correction et travailler ce point, tu dois pouvoir rédiger un paragraphe d'ici à Noël. Ton paragraphe est encore trop incomplet.",
 			"good_class": "bonne participation et travail sérieux",
-			"bad_class": "je compte sur toi pour progresser nettement à l'écrit."
+			"bad_class": "je compte sur toi pour progresser nettement à l'écrit.\ntu peux faire une fiche résumé de la séquence que je peux corriger."
 		},
 		{
 			"name": "Jules",
