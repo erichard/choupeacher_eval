@@ -1,0 +1,11 @@
+{
+	"title": "Première Guerre",
+	"classe": "3F",
+	"id": "premire-guerre",
+	"eleve": [
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		}
+	]
+}
