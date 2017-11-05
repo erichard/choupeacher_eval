@@ -8,7 +8,9 @@
 			"name": "Kyllian L",
 			"grade": 6,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Les documents sont à peu près compris. ",
+			"bad_copie": "Partie 1 à revoir entièrement"
 		}
 	]
 }
