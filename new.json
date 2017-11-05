@@ -5,8 +5,11 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "Iliès",
+			"grade": 13,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon devoir Iliès.\ndocuments compris, question 3 bien."
 		},
 		{
 			"name": "Paul",
