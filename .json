@@ -1,0 +1,8 @@
+{
+	"eleve": [
+		{
+			"alerte_cours": true,
+			"alerte_comportement": false
+		}
+	]
+}
