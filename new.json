@@ -5,12 +5,17 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Marion",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon devoir ! \ndocuments bien compris, dates connues, beaucoup d'efforts pour le paragraphe.\nBelle évolution et beaucoup de sérieux dans le travail personnel.",
-			"bad_copie": "tu es vraiment bien partie pour le paragraphe. Contrairement à beaucoup d'autres, tu ne récites pas le cours tu essayes vraiment de répondre au sujet. Il manque des éléments, regarde la correction sur elyco cela va t'aider.\n\npour le reste, il ne manque pas grand chose, à chaque question, quelques détails. Regarde bien la correction."
+			"bad_copie": "tu es vraiment bien partie pour le paragraphe. Contrairement à beaucoup d'autres, tu ne récites pas le cours tu essayes vraiment de répondre au sujet. Il manque des éléments, regarde la correction sur elyco cela va t'aider.\n\npour le reste, il ne manque pas grand chose, à chaque question, quelques détails. Regarde bien la correction.\n\nPour le prochain paragraphe, réalise un plan au brouillon avec toutes tes idées en vrac. Puis relis le sujet et entoure toutes les idées qui répondent au sujet.",
+			"good_class": "travail très sérieux en classe et de réels efforts pour participer, surtout continue"
 		},
 		{
 			"name": "Valentin",
