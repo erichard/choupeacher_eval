@@ -9,7 +9,8 @@
 			"grade": 7,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"good_copie": "Les documents sont compris, certaines dates connues. Cela prouve que le cours est compris mais pas assez revu chez toi. "
+			"good_copie": "Les documents sont compris, certaines dates connues. Cela prouve que le cours est compris mais pas assez revu chez toi. ",
+			"bad_copie": "J'ai appris que tu allais aller ou que tu vas déjà en DRI. J'espère que cela va t'aider sur les cours mais aussi pour être mieux en classe. Je ne te sens pas très à l'aise. Si je peux faire quelque chose pour t'aider, dis le moi. \n\nPartie 1 : tout était dans le cours il faut le revoir plus précisément. \nPartie 2 : regarde bien la correction sur elyco, tu pourras mieux comprendre ce que j'attendais et gagner en précision. \nPartie 3 : "
 		},
 		{
 			"name": "Lyta",
