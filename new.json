@@ -5,8 +5,11 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "Valentin",
+			"grade": 13,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon devoir. \ndocuments compris"
 		},
 		{
 			"name": "Jimmy",
