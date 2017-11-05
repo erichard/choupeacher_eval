@@ -9,8 +9,7 @@
 			"grade": 12,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon devoir.\ndocuments compris",
-			"bad_copie": "lève la main pour prendre la parole, non ce n'est pas parce que je vous prends pour des primaires. Mais nous sommes 31 dans la salle, il faut organiser la prise de parole, tu tu permets encore trop de chose en cours. ( parler sans le demander, commentaires hors sujet...) \ncela ne te pénalise pas trop parce que tu retiens assez facilement l'essentiel du cours mais cela pénalise certain-e-s qui n'ont pas cette capacité."
+			"good_copie": "bon devoir.\ndocuments compris"
 		},
 		{
 			"name": "Iliès",
