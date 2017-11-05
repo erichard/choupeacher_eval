@@ -10,7 +10,9 @@
 			"alerte_cours": true,
 			"alerte_comportement": false,
 			"good_copie": "Les documents sont à peu près compris. \nLa carte est réussie.",
-			"bad_copie": "Partie 1 revoir les dates. Il y a deux choses que je demande par coeur : les dates et les cartes. Une chose que je demande de connaître et savoir expliquer : les mots clés. \nPartie 2 : Regarde la correction envoyée sur elyco cela va t'aider à comprendre ce que j'attends, à être encore plus précis. \nPartie 3 : "
+			"bad_copie": "Partie 1 revoir les dates. Il y a deux choses que je demande par coeur : les dates et les cartes. Une chose que je demande de connaître et savoir expliquer : les mots clés. \nPartie 2 : Regarde la correction envoyée sur elyco cela va t'aider à comprendre ce que j'attends, à être encore plus précis. \nPartie 3 : Je n'ai rien compris. On te demande en quoi la guerre a transformé l'Europe. Il ne s'agit de pas de raconter comment elle a commencé en détail. Tu dois parler des changements. ( violence de masse, génocide, brutalisation révolution russe, fin des Empires en 1918 1919, travail des femmes ) Attention, il faut absolument lire la correction et travailler ce point, tu dois pouvoir rédiger un paragraphe d'ici à Noël.",
+			"good_class": "travail assez sérieux",
+			"bad_class": "tu ne te mets pas assez vite dans l'activité, tu attends trop longtemps que le temps passe\ncourage, tu es vraiment capable de progresser"
 		},
 		{
 			"name": "Antoine",
