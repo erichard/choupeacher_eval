@@ -1,7 +1,7 @@
 {
 	"eleve": [
 		{
-			"alerte_cours": true,
+			"alerte_cours": false,
 			"alerte_comportement": false
 		}
 	]
