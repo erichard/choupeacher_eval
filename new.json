@@ -5,6 +5,10 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Kylian D",
 			"grade": 10,
 			"alerte_cours": false,
