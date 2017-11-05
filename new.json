@@ -5,12 +5,21 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "Anthony",
+			"grade": 8.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "documents compris"
+		},
+		{
 			"name": "Léa",
 			"grade": 9,
 			"alerte_cours": true,
 			"alerte_comportement": false,
 			"good_copie": "Documents compris, carte aussi.",
-			"bad_copie": "Partie 1 à revoir entièrement, c'était du cours uniquement. \nPartie 2 : Regarde la correction envoyée sur elyco cela va t'aider à comprendre ce que j'attends, à être encore plus précise. \nPartie 3 :  On te demande en quoi la guerre a transformé l'Europe.Tu dois parler des changements. ( violence de masse, génocide, brutalisation révolution russe, fin des Empires en 1918 1919, travail des femmes ) Attention, il faut absolument lire la correction et travailler ce point, tu dois pouvoir rédiger un paragraphe d'ici à Noël."
+			"bad_copie": "Partie 1 à revoir entièrement, c'était du cours uniquement. \nPartie 2 : Regarde la correction envoyée sur elyco cela va t'aider à comprendre ce que j'attends, à être encore plus précise. \nPartie 3 :  On te demande en quoi la guerre a transformé l'Europe.Tu dois parler des changements. ( violence de masse, génocide, brutalisation révolution russe, fin des Empires en 1918 1919, travail des femmes ) Attention, il faut absolument lire la correction et travailler ce point, tu dois pouvoir rédiger un paragraphe d'ici à Noël.",
+			"good_class": "travail sérieux",
+			"bad_class": "participe encore un peu plus\npour progresser, réalise des fiches résumé de la séquence, je peux la corriger."
 		},
 		{
 			"name": "Allan",
