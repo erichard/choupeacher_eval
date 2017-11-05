@@ -8,7 +8,8 @@
 			"name": "Sarah",
 			"grade": 7,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "Les documents sont compris, certaines dates connues"
 		},
 		{
 			"name": "Lyta",
