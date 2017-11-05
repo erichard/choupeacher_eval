@@ -6,6 +6,7 @@
 	"eleve": [
 		{
 			"name": "Maël",
+			"grade": 11.5,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
