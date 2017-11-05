@@ -5,7 +5,9 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
-			"alerte_cours": false,
+			"name": "Romane",
+			"grade": 7,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
