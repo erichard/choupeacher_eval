@@ -1,12 +1,18 @@
 {
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Lisa",
 			"grade": 17.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "très bon travail bravo ! le cours a été vraiment revu et bien compris. ",
-			"bad_copie": "c'est le paragraphe qui est encore incomplet, cela va venir.\n\nPartie 3. C'est très incomplet. Tu dois écrire beaucoup plus que cela.\n\nL'islam est une religion monothéiste qui apparaît en Arabie au VIIème siècle. Son prophète est Mahomet. Il affirme être l'envoyé de Dieu. Il aurait reçu la Révélation. Le livre sacré des musulmans est le Coran. L'islam se répand dans toute l'Arabie puis en Méditerranée.\nMahomet meurt en 632 sans désigner de successeurs. Un conflit oppose le beau père de Mahomet et son cousin. L'islam se divise entre sunnites et chiites. ( ils sont tous les deux musulmans mais ont des croyances différentes )\nLes califes ont les dirigeants du monde musulmans à la mort de Mahomet. \nDamas possède une très grande et riche mosquée qui existe encore aujourd'hui. Avant, c'était une Eglise, et dans l'Antiquité, c'était un temple pour Jupiter."
+			"bad_copie": "c'est le paragraphe qui est encore incomplet, cela va venir.\n\nPartie 3. \n\nL'islam est une religion monothéiste qui apparaît en Arabie au VIIème siècle. Son prophète est Mahomet. Il affirme être l'envoyé de Dieu. Il aurait reçu la Révélation. Le livre sacré des musulmans est le Coran. L'islam se répand dans toute l'Arabie puis en Méditerranée.\nMahomet meurt en 632 sans désigner de successeurs. Un conflit oppose le beau père de Mahomet et son cousin. L'islam se divise entre sunnites et chiites. ( ils sont tous les deux musulmans mais ont des croyances différentes )\nLes califes ont les dirigeants du monde musulmans à la mort de Mahomet. \nDamas possède une très grande et riche mosquée qui existe encore aujourd'hui. Avant, c'était une Eglise, et dans l'Antiquité, c'était un temple pour Jupiter.",
+			"good_class": "excellente participation travail très sérieux.",
+			"bad_class": "continue !"
 		},
 		{
 			"name": "Garance",
