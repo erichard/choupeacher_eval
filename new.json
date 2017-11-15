@@ -5,7 +5,8 @@
 			"grade": 1,
 			"alerte_cours": true,
 			"alerte_comportement": true,
-			"bad_copie": "correction envoyée sur elyco.\n\nLe cours n'est pas revu. Luxiana, il y a urgence à te mettre réellement au travail. "
+			"bad_copie": "correction envoyée sur elyco.\n\nLe cours n'est pas revu. Luxiana, il y a urgence à te mettre réellement au travail. ",
+			"bad_class": "tu bavardes, tu joues. Il y a très peu de travail. "
 		}
 	]
 }
