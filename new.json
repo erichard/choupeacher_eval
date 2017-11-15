@@ -1,6 +1,10 @@
 {
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Luxiana",
 			"grade": 1,
 			"alerte_cours": true,
