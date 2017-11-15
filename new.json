@@ -2,7 +2,8 @@
 	"eleve": [
 		{
 			"name": "Ewen S",
-			"alerte_cours": false,
+			"grade": 9,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
