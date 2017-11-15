@@ -1,6 +1,8 @@
 {
 	"eleve": [
 		{
+			"name": "Karim",
+			"grade": 12.5,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
