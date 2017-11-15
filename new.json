@@ -1,6 +1,8 @@
 {
 	"eleve": [
 		{
+			"name": "Eliette",
+			"grade": 19,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
