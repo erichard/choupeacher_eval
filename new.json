@@ -2,7 +2,8 @@
 	"eleve": [
 		{
 			"name": "Maëna",
-			"alerte_cours": false,
+			"grade": 8,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
