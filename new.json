@@ -1,0 +1,11 @@
+{
+	"title": "Habiter les métropoles",
+	"classe": "6H",
+	"id": "habiter-les-mtropoles",
+	"eleve": [
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		}
+	]
+}
