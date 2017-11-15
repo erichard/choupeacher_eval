@@ -5,8 +5,9 @@
 	"id": "habiter-les-mtropoles",
 	"eleve": [
 		{
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"name": "Viguen",
+			"alerte_cours": true,
+			"alerte_comportement": true
 		}
 	]
 }
