@@ -1,12 +1,19 @@
 {
 	"eleve": [
 		{
+			"name": "Garance",
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Mathis",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon travail ! \ntrès bon paragraphe, document à peu près compris",
-			"bad_copie": "tu perds des points sur \" le plus facile \" c'est dommage. \n\npartie 1 \n6. Almohades en Espagne et Fatimides en Egypte.\n7. Crise pour lui succéder, division entre sunnites et chiites.\n8. Voir cours. \n\nPartie 2. \n1. Ce document est un extrait d'un livre ( nature ) écrit par AL Bukhari ( auteur ) au IXème siècle il n'y a pas de titre.\n2. Mahomet vient d'arriver à Médine, c'est donc après l'Hégire, après 622.\n3. Il détruit des enlos à moutons et des tombes des polythéistes pour construire une mosquée.\n4. Personne qui croit en plusieurs dieux.\n5. Cela prouve qu'avant l'islam, il y avait des religions polythéistes.\n\nPartie 3. C'est très incomplet. Tu dois écrire beaucoup plus que cela.\n\nL'islam est une religion monothéiste qui apparaît en Arabie au VIIème siècle. Son prophète est Mahomet. Il affirme être l'envoyé de Dieu. Il aurait reçu la Révélation. Le livre sacré des musulmans est le Coran. L'islam se répand dans toute l'Arabie puis en Méditerranée.\nMahomet meurt en 632 sans désigner de successeurs. Un conflit oppose le beau père de Mahomet et son cousin. L'islam se divise entre sunnites et chiites. ( ils sont tous les deux musulmans mais ont des croyances différentes )\nLes califes ont les dirigeants du monde musulmans à la mort de Mahomet. \nDamas possède une très grande et riche mosquée qui existe encore aujourd'hui. Avant, c'était une Eglise, et dans l'Antiquité, c'était un temple pour Jupiter."
+			"bad_copie": "tu perds des points sur \" le plus facile \" c'est dommage. \n\npartie 1 \n6. Almohades en Espagne et Fatimides en Egypte.\n7. Crise pour lui succéder, division entre sunnites et chiites.\n8. Voir cours. \n\nPartie 2. \n1. Ce document est un extrait d'un livre ( nature ) écrit par AL Bukhari ( auteur ) au IXème siècle il n'y a pas de titre.\n2. Mahomet vient d'arriver à Médine, c'est donc après l'Hégire, après 622.\n3. Il détruit des enlos à moutons et des tombes des polythéistes pour construire une mosquée.\n4. Personne qui croit en plusieurs dieux.\n5. Cela prouve qu'avant l'islam, il y avait des religions polythéistes.\n\nPartie 3. C'est très incomplet. Tu dois écrire beaucoup plus que cela.\n\nL'islam est une religion monothéiste qui apparaît en Arabie au VIIème siècle. Son prophète est Mahomet. Il affirme être l'envoyé de Dieu. Il aurait reçu la Révélation. Le livre sacré des musulmans est le Coran. L'islam se répand dans toute l'Arabie puis en Méditerranée.\nMahomet meurt en 632 sans désigner de successeurs. Un conflit oppose le beau père de Mahomet et son cousin. L'islam se divise entre sunnites et chiites. ( ils sont tous les deux musulmans mais ont des croyances différentes )\nLes califes ont les dirigeants du monde musulmans à la mort de Mahomet. \nDamas possède une très grande et riche mosquée qui existe encore aujourd'hui. Avant, c'était une Eglise, et dans l'Antiquité, c'était un temple pour Jupiter.",
+			"good_class": "bonne participation",
+			"bad_class": "attention aux bavardages"
 		},
 		{
 			"name": "marie",
