@@ -1,6 +1,16 @@
 {
 	"eleve": [
 		{
+			"name": "Even J",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false
+		},
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Fatine",
 			"grade": 5.5,
 			"alerte_cours": true,
