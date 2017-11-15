@@ -1,6 +1,10 @@
 {
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Cassandra",
 			"grade": 9,
 			"alerte_cours": true,
