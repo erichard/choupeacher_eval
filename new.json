@@ -4,7 +4,7 @@
 			"name": "Even J",
 			"grade": 6,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": true
 		},
 		{
 			"alerte_cours": false,
