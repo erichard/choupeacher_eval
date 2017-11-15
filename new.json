@@ -6,7 +6,7 @@
 	"eleve": [
 		{
 			"name": "Viguen",
-			"grade": 0,
+			"grade": 5,
 			"alerte_cours": true,
 			"alerte_comportement": true,
 			"bad_copie": "Le cours n'est pas du tout revu. Il y a urgence à revoir les cours sérieusement.\n\nPartie 1. \n1. Une métropole est une très grande ville, densément peuplée qui possède plusieurs fonctions ( politique économique et culturel ) avec un CBD ( quartier d'affaires )\n2. "
