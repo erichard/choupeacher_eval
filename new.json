@@ -1,6 +1,7 @@
 {
 	"eleve": [
 		{
+			"name": "Maëna",
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
