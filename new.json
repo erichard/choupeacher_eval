@@ -1,7 +1,9 @@
 {
 	"eleve": [
 		{
-			"alerte_cours": false,
+			"name": "Raphaël",
+			"grade": 10,
+			"alerte_cours": true,
 			"alerte_comportement": false
 		},
 		{
