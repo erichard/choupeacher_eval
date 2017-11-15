@@ -3,8 +3,8 @@
 		{
 			"name": "Luxiana",
 			"grade": 1,
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_cours": true,
+			"alerte_comportement": true
 		}
 	]
 }
