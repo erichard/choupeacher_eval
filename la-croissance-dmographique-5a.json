@@ -1,0 +1,256 @@
+{
+	"title": "La croissance démographique",
+	"classe": "51",
+	"date": "2017-11-22",
+	"id": "la-croissance-dmographique",
+	"eleve": [
+		{
+			"name": "Dylan",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! c'est en gros progrès ! \nles documents sont assez bien compris. ",
+			"bad_copie": "voici la correction pour comprendre ce qui était attendu. \n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. \nmots clés à placer : IDH, mortalité infantile, bidonville, ségrégation socio spatiale, inégalité. ",
+			"good_class": "beaucoup d'effort en classe, c'est en progrès. continue"
+		},
+		{
+			"name": "Antoine",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bravo !!! excellent travail ! très bon paragraphe, tu es le seul à avoir parlé de l'agriculture verte. C'est bien de donner des détails. \nles documents sont très bien compris. ",
+			"bad_copie": "il n'y a vraiment pas grand chose à améliorer, bravo.",
+			"good_class": "bonne participation et beaucoup d'effort !"
+		},
+		{
+			"name": "Léa",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est en progrès ! bon travail. le cours a été revu. ",
+			"bad_copie": "ne recopie pas trop les documents ( question 3 partie 2 )\nquel dommage pour l'unité du paragraphe. Il a été vu en classe. Ce n'est pas % mais pour mille habitants. \n\nPour progresser, continue à revoir sérieusement les cours et n'hésite pas à me dire quand ce n'est pas clair.\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. \nmots clés à placer : IDH, mortalité infantile, bidonville, ségrégation socio spatiale, inégalité. \n",
+			"good_class": "travail toujours très sérieux",
+			"bad_class": "essaye de prendre la parole..."
+		},
+		{
+			"name": "Emma",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail c'est brillant, toujours aussi sérieux",
+			"bad_copie": "il manque juste pour le paragraphe des exemples de pays vus en classe, mais ce n'est vraiment pas grand chose",
+			"good_class": "excellent pour tout, tu es toujours aussi concentrée et sérieuse !"
+		},
+		{
+			"name": "Salomé",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bravo !!! excellent travail. Tout est compris",
+			"bad_copie": "question C partie 1. dans les pays du Nord, la natalité est faible et la mortalité très faible ( bon accès à la santé ) donc la population augmente doucement.",
+			"good_class": "excellent pour tout !"
+		},
+		{
+			"name": "Séfora",
+			"grade": 18,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail bravo ! cours revu compris c'est très sérieux.\nles documents sont très bien compris. ",
+			"bad_copie": "paragraphe un peu incomplet il manque des exemples de pays mais ce n'est pas grand chose",
+			"good_class": "excellent pour tout !"
+		},
+		{
+			"name": "Flavie",
+			"grade": 18,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail bravo ! cours revu compris c'est très sérieux.\nexcellent paragraphe très complet",
+			"bad_copie": "explique plus ce qu'est l'IDH\nquestion 3 partie 2 c'était la conséquence pour le pays : trouver de la main d'oeuvre.",
+			"good_class": "excellent tant pour le travail que pour l'attitude ! continue"
+		},
+		{
+			"name": "Simon",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "BRAVO !! quel beau progrès !! très bon travail\nle cours a été revu sérieusement et c'est compris. Beaucoup d'effort pour comprendre les documents. ",
+			"bad_copie": "partie 1 exercice 2 il faut expliquer ce qu'est l'indicateur. Là la question est mal comprise.\nle paragraphe est encore trop incomplet mais cela va venir.\n\nVoici la correction\nPartie 1\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. \nmots clés à placer : IDH, mortalité infantile, bidonville, ségrégation socio spatiale, inégalité. ",
+			"good_class": "bien meilleure participation, c'est en très gros progrès, continue !"
+		},
+		{
+			"name": "Sarah",
+			"grade": 13,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail, le cours a été revu en partie et les documents sont à peu près compris.",
+			"bad_copie": "quel dommage de perdre deux points sur le graphique, il a été vu en classe. Ce n'est pas % mais pour mille habitant.\nLe paragraphe est trop incomplet. Regarde bien la correction\n\nVoici la correction\nPartie 1\nExercice1\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. \nmots clés à placer : IDH, mortalité infantile, bidonville, ségrégation socio spatiale, inégalité. ",
+			"good_class": "très bonne participation, continue",
+			"bad_class": "attention parfois aux bavardages"
+		},
+		{
+			"name": "Thomas",
+			"grade": 14,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est bien mieux ! beau progrès. \nLe cours a été revu sérieusement, les documents sont bien compris.",
+			"bad_copie": "il faut maintenant travailler le paragraphe : il doit être plus complet. \npour progresser, il faut gagner encore en précision, tu es vraiment capable. regarde bien le paragraphe.\nPartie 1\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. \nmots clés à placer : IDH, mortalité infantile, bidonville, ségrégation socio spatiale, inégalité. ",
+			"good_class": "bonne participation, c'est en progrès"
+		},
+		{
+			"name": "Suzon",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail. Le cours a été revu en partie",
+			"bad_copie": "le graphique a été vu en classe, c'était le même. Tu t'es trompée dans l'unité ce n'est pas en % mais pour 1000 habitants. Ce n'est pas la même chose. C'est dommage de perdre 2 points dessus. \nton paragraphe n'est pas assez complet, il manque des mots clés.\n\nPour progresser, utilise la fiche de révision sur elyco et disponible en classe. Il faut revoir les cours plus régulièrement.\n\nPartie 1\nExercice1\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "bonne participation et travail sérieux"
+		},
+		{
+			"name": "Bastien",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est mieux, mais tu es capable de plus...Que se passe t-il cette année ? \nles documents sont assez bien réussis. ",
+			"bad_copie": "Mais le cours n'est pas revu en détail, tu perds trop de points sur des questions \" simples \" comme les définitions. \n\nVoici la correction, à bien lire pour comprendre ce que j'attendais.\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "bonne participation et travail sérieux !"
+		},
+		{
+			"name": "Emilie",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bonne évaluation, c'est en progrès ! \nLe cours a été revu, tu sais définir les mots clés. ",
+			"bad_copie": "par contre, les documents posent soucis, et le paragraphe est très incomplet. \nPour progresser, regarde bien la correction du paragraphe cela va t'aider pour la prochaine fois.\n\nPartie 1\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "très bonne participation, beaucoup d'effort !"
+		},
+		{
+			"name": "Maureen",
+			"grade": 9.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "C'est trop juste, tes résultats ont chuté tout du trimestre...\npourtant, le cours a été revu, tu sais définir les mots clés. ",
+			"bad_copie": "les documents te posent beaucoup de difficulté. Quel dommage d'avoir oublié l'unité du graphique, c'est pour mille et non %. Ce graphique a été vu en cours.\n\nPour progresser, il faut t'entraîner en classe et à la maison à bien lire des documents. Tu apprends le cours mais cela ne suffit pas toujours..Regarde bien la correction.\n\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "travail assez sérieux",
+			"bad_class": "attention aux bavardages parfois"
+		},
+		{
+			"name": "Elodie",
+			"grade": 11.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "C'est en très net progrès !  Le cours a été revu, tu sais définir les mots clés,et les documents sont compris.",
+			"bad_copie": "partie 3 quel dommage, tu as mélangés le pays. Les pays du Nord n'ont pas la politique de l'enfant unique. Ce n'est que en Chine. \n\nAttention à bien regarder le graphique pour l'unité, c'est pour mille et non %. Heureusement que je passais par là...\n\nPour progresser, regarde bien la correction pour comprendre ce que j'attendais.\nPartie 1\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "travail très très sérieux et beaucoup d'efforts en classe, bravo. Continue"
+		},
+		{
+			"name": "Mathilde",
+			"grade": 10,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est encore trop juste mais c'est en progrès !\nbon paragpraphe, cela prouve que le cours a été revu. ",
+			"bad_copie": "le cours n'est pas revu dans les détails. Tu ne peux pas définir des mots clés, ni croissance démographique ni IDH. \npour la partie 2, quel dommage, tu oublis l'unité du graphique. Il a été vu en classe, c'est pour mille habitants et non en %.\n\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "travail sérieux en classe",
+			"bad_class": "participe un peu plus, tu participais plus en début de trimestre"
+		},
+		{
+			"name": "Lucie",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est mieux, tu as bien compris les documents et le cours a été en partie revu.",
+			"bad_copie": "quel dommage pour les définitions ! il faut utiliser la fiche de révision donnée sur elyco et disponible en classe.\n\npartie 2 question 1 mal comprise. Tu as mélangé toutes les informations. Il faut relire plusieurs fois le texte. \n\npartie 3 : cela manque encore de connaissances et de mots clés\n\nPour progresser, utilise la fiche de révision et revois le cours plus régulièrement. \nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "travail sérieux",
+			"bad_class": "participe en classe au moins une fois par heure"
+		},
+		{
+			"name": "Léna",
+			"grade": 9,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "c'est encore trop juste...\nmais le cours a été revu ( mots clés compris )",
+			"bad_copie": "ce qui pose problème sont les documents.\n- ne recopie pas les phrases du texte, il faut tes propres mots pour que je sois sûre que tu as compris.\n- le graphique a été vu en classe et pourtant, tu ne sais pas le lire correctement.\n\nPour progresser, il faut bien lire la correction et travailler plus régulièrement à la maison. \nle cours n'est absolument pas revu, c'est une copie blanche.\nVoici la correction\nPartie 1\nExercice1\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "bonne participation",
+			"bad_class": "concentre toi un peu plus en classe"
+		},
+		{
+			"name": "Eda",
+			"grade": 8.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "c'est trop juste...\npar contre, le graphique est compris et le texte en partie compris",
+			"bad_copie": "les consignes ne sont pas toujours comprises ( question c de l'exercice 2, il faut expliquer comment évolue les naissances et les morts dans les pays riches, c'est une question faite à la maison et corrigé en classe )\npour le paragraphe, cela manque de mots clés et de connaissance. \nPour progresser, il faut bien lire cette correction ( surtout le paragraphe ) et revoir les cours plus régulièrement.\n\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "bonne participation et travail très sérieux en classe",
+			"bad_class": "essaye de travailler en groupe Eda.."
+		},
+		{
+			"name": "Nathan",
+			"grade": 8,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est encore trop juste mais il y a des progrès. Les mots clés sont connus. ",
+			"bad_copie": "beaucoup de difficultés de compréhension des documents, tes phrases ne veulent pas toujours dire quelques chose. ( exemple partie 2 question 2 )\ndifficulté pour comprendre le graphique alors qu'il a été étudié en classe. \n\nPour progresser, il faut revoir le cours plus en détail. voici la correction, il faut la lire pour bien comprendre ce qui était attendu.\n\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "bon comportement pendant l'évaluation, tu étais calme et attentif.",
+			"bad_class": "concentre toi à chaque cours!"
+		},
+		{
+			"name": "Romain",
+			"grade": 6.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "c'est encore beaucoup trop juste mais il y a eu des efforts.",
+			"bad_copie": "Le cours n'est pas revu en détail.\nExemple : croissance démographique, tu ne définis pas le mot, tu expliques comment est la croissance démographique dans le monde.\n\nPour les documents, tu recopies trop le texte, il faut faire tes propres phrases. Ensuite, quand il y a un document avec des chiffres, il faut une réponse avec des chiffres. \n\nPour la partie 3, cela manque de connaissances et de mots clés\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "excellent comportement pendant l'évaluation ! Tu étais calme, attentif et sérieux.",
+			"bad_class": "continue à te concentrer en classe, tu devrais progresser."
+		},
+		{
+			"name": "Alan M",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "le cours est peu revu. \nCroissance démographique, tu me dis que c'est une évolution, mais évoluer, cela veut dire augmenter, mais aussi diminuer. Or, la croissance, c'est forcément une augmentation. Tu es trop vague. \n\nPour la partie document, tu ne lis pas assez le texte et tu tu ne sais pas lire le graphique, pourtant fait en classe.\n\nPour la partie 3, les pays du Nord ont des problèmes : payer les retraites, inégalités entre riches et pauvres...\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"bad_class": "tu attends beaucoup trop que l'heure passe sans réellement travailler. \nconcentre toi plus sur ton travail"
+		},
+		{
+			"name": "Hamza",
+			"grade": 4,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "il y a quelques mots clés compris",
+			"bad_copie": "le cours est très peu revu et il y a de grosses difficultés de compréhension des documents. ( lecture du graphique )\nPour progresser, il faut absolument revoir le cours plus sérieusement. Lis la correction pour comprendre ce que j'attendaiss.\n\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"bad_class": "tu perturbes sans arrêt les cours, jeux, bavardages, commentaires, agitation."
+		},
+		{
+			"name": "Stiwen",
+			"grade": 3,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "le cours n'est absolument pas revu. \nAs tu lu la fiche de révision envoyée sur elyco et disponible en classe ? Il y avait tout pour réviser.\nPour progresser, il faut absolument revoir les cours plus sérieusement.\n\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"bad_class": "tu bavardes et tu joues sans arrêt. \nRéussir ici va te permettre de choisir seul ce que tu vas faire plus tard...Que l'école ne décide pas à ta place."
+		},
+		{
+			"name": "Allan F",
+			"grade": 5.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "quelques éléments des documents compris",
+			"bad_copie": "le cours n'est absolument pas revu, tu ne sais pas définir les mots clés, tu mélanges les termes. \nPour les documents, tu les recopies trop sans utiliser tes propres mots.\npour progresser, il faut absolument revoir le cours plus sérieusement.\n\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"good_class": "le travail en classe est fait",
+			"bad_class": "attention à bien te concentrer en classe"
+		},
+		{
+			"name": "Bilal",
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "le cours n'est absolument pas revu, il y a de fortes incompréhensions à la fois pour les définitions et pour le graphique. \npour progresser, il faut absolument revoir les cours plus sérieusement. \nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. ",
+			"bad_class": "beaucoup de perturbation, de jeux, très peu de travail"
+		},
+		{
+			"name": "Baptiste",
+			"grade": 1,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "le cours n'est absolument pas revu, c'est une copie blanche.\nVoici la correction\nPartie 1\nExercice1\ncroissance démographique : augmentation de la population\npays du Nord : pays riche et développé\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, indice de développement humain, de 0 à 1. Il prend en compte l'espérance de vie, la richesse de la population et le taux de scolarisation de la population.\nb. Eau, nourriture, soins.\nc. Dans les pays développés, la natalité est assez faible et la mortalité très faible. La population augmente très doucement.\n\nPartie 2\n1. Elle va diminuer, de 81 millions aujourd'hui à 73 millions en 2060.\n2. La population vieillit.\n3. Manque de main d'oeuvre.\n4. Le taux de natalité est de 18 pour mille en 1960 et mortalité à 11 pour mille habitants.\n5. La population allemande diminue car le taux de mortalité est supérieur au taux de natalité.\n\nPartie 3. \nDans les pays du Nord, la population vieillit et la natalité est faible. Cela pose des problèmes pour payer les retraites et pour trouver de la main d'oeuvre. On peut faire appel à l'immigration.\nDans les pays du Sud, il y a une forte croissance démographique, avec une forte natalité et parfois une assez forte mortalité. La population est jeune. Cela pose des problèmes de partage des richesses et d'accès pour tous et toutes aux soins et à l'éducation. \nmots clés à placer : IDH, mortalité infantile, bidonville, ségrégation socio spatiale, inégalité. ",
+			"bad_class": "bavardages, commentaires à haute voix..Tu perturbes beaucoup trop le cours. "
+		}
+	]
+}
