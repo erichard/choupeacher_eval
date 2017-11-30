@@ -5,12 +5,69 @@
 	"id": "habiter-les-mropoles",
 	"eleve": [
 		{
+			"name": "Elias",
+			"grade": 20,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "BRAVO !!! excellent travail, c'est très juste, bien compris  c'est un travail très sérieux ",
+			"bad_copie": "un exemple pour le paragraphe : \n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "très bonne participation, travail très sérieux"
+		},
+		{
+			"name": "Gianni",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bravo ! excellent travail c'est vraiment sérieux le cours est revu, compris",
+			"bad_copie": "quand il y a un document avec des chiffres, il faut une réponse chiffrée, n'oublie pas d'utiliser au maximum le graphique.\n\nPartie 1\nd. augmentation générale de la population.\n\nPartie 2\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n6. Elle est une métropole en croissance rapide, avec un centre historique et une ville plus récente ( Navi Mumbaï ) c'est une ville de contrastes avec des quartiers riches et des bidonvilles. Il y a donc de la ségrégation socio spatiale. Enfin, c'est une ville qui possède un CBD, des zones industrielles et plusieurs moyens de transports. ( port, aéroport train )\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "excellent très bonne participation beaucoup d'intérêt"
+		},
+		{
+			"name": "loane",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bravo !! excellent travail ! c'est très sérieux et compris",
+			"bad_copie": "Partie 1\nd. augmentation générale de la population.\n\nPartie 2\n1. En Asie en Inde à l'Ouest.\n2. La population est passée de 3 millions en 1950 à 21 en 2015, elle a donc augmenté.\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n6. Elle est une métropole en croissance rapide, avec un centre historique et une ville plus récente ( Navi Mumbaï ) c'est une ville de contrastes avec des quartiers riches et des bidonvilles. Il y a donc de la ségrégation socio spatiale. Enfin, c'est une ville qui possède un CBD, des zones industrielles et plusieurs moyens de transports. ( port, aéroport train )\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "travail toujours très sérieux",
+			"bad_class": "participe encore plus !"
+		},
+		{
+			"name": "Quentin",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! le cours est revu et compris ",
+			"bad_copie": "il faut développer le paragraphe ( regarde la correction )\n\nPartie 2.\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n6. Elle est une métropole en croissance rapide, avec un centre historique et une ville plus récente ( Navi Mumbaï ) c'est une ville de contrastes avec des quartiers riches et des bidonvilles. Il y a donc de la ségrégation socio spatiale. Enfin, c'est une ville qui possède un CBD, des zones industrielles et plusieurs moyens de transports. ( port, aéroport train )\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "travail très sérieux bonne participation. continu"
+		},
+		{
+			"name": "Enora",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! le cours est revu et compris excellente réponse 6, bravo.",
+			"bad_copie": "quand il y a un document avec des chiffres, il faut une réponse chiffrée. question 2 prouve avec des chiffres.\n\nPartie 2\n1. En Asie en Inde à l'Ouest.\n2. La population est passée de 3 millions en 1950 à 21 en 2015, elle a donc augmenté.\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "très bon travail continue !"
+		},
+		{
+			"name": "Océane",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! cours revu et compris",
+			"bad_copie": "partie 1 question a il faut être plus précise. Une métropole influence sa région et possède plusieurs fonctions.\n\npour progresser, il faut encore gagner en précision dans les réponses. Mais cela va venir.\n\nPartie 1\nd. augmentation générale de la population.\n\nPartie 2\n1. En Asie en Inde à l'Ouest.\n2. La population est passée de 3 millions en 1950 à 21 en 2015, elle a donc augmenté.\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n6. Elle est une métropole en croissance rapide, avec un centre historique et une ville plus récente ( Navi Mumbaï ) c'est une ville de contrastes avec des quartiers riches et des bidonvilles. Il y a donc de la ségrégation socio spatiale. Enfin, c'est une ville qui possède un CBD, des zones industrielles et plusieurs moyens de transports. ( port, aéroport train )\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "très sérieux, continue",
+			"bad_class": "participe encore plus"
+		},
+		{
 			"name": "Marie",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon travail ! le cours est revu sérieusement, excellent paragraphe bravo c'est clair le cours est compris.",
-			"bad_copie": "Partie 1\na. grande ville densément peuplé qui influence toute sa région et a des fonctions politiques économiques et culturelle. \nb. Habitation faite avec des matériaux de récupération.\nc. séparation dans l'espace entre les riches et les pauvres.\nd. augmentation générale de la population.\n\nPartie 2\n1. En Asie en Inde à l'Ouest.\n2. La population est passée de 3 millions en 1950 à 21 en 2015, elle a donc augmenté.\n3. Croissance démographique.\n4. Elle va augmenter jusqu'à 28 millions d'habitants selon la projection du graphique.\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n6. Elle est une métropole en croissance rapide, avec un centre historique et une ville plus récente ( Navi Mumbaï ) c'est une ville de contrastes avec des quartiers riches et des bidonvilles. Il y a donc de la ségrégation socio spatiale. Enfin, c'est une ville qui possède un CBD, des zones industrielles et plusieurs moyens de transports. ( port, aéroport train )\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. "
+			"bad_copie": "Partie 1\nd. augmentation générale de la population.\n\nPartie 2\n1. En Asie en Inde à l'Ouest.\n2. La population est passée de 3 millions en 1950 à 21 en 2015, elle a donc augmenté.\n5. La métropole s'étend vers le Nord, on voit les flèches sur la carte qui représentent l'urbanisation. La ville ne peut s'étendre que vers le Nord car la ville est littorale, elle ne peut pas s'étendre vers le Sud, c'est l'Océan Indien.\n6. Elle est une métropole en croissance rapide, avec un centre historique et une ville plus récente ( Navi Mumbaï ) c'est une ville de contrastes avec des quartiers riches et des bidonvilles. Il y a donc de la ségrégation socio spatiale. Enfin, c'est une ville qui possède un CBD, des zones industrielles et plusieurs moyens de transports. ( port, aéroport train )\n\nPartie 3\nUne métropole est une grande ville qui possède plusieurs fonctions : économique avec le CBD, politique avec le gouvernement et les ministres qui y travaillent et culturelle avec des musées importants. Dans les pays du Nord, les métropoles sont riches et possèdent de nombreux moyens de transport. Il existe parfois une forte séparation entre riches et pauvres et il y a de fortes inégalités. Dans les pays du Sud, les métropoles peuvent être riches mais les contrastes sociaux sont encore plus grands. La très grande richesse côtoie la très grande pauvreté. Les problèmes des métropoles sont la pollution, les inégalités, le coût du logement et le manque de moyen de transport. ",
+			"good_class": "très sérieux, continue !"
 		},
 		{
 			"name": "Samuel",
