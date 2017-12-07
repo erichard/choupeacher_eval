@@ -1,0 +1,165 @@
+{
+	"eleve": [
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
+			"name": "Suzon",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail le cours a été revu",
+			"bad_copie": "erxercice 2\na. par l'IDH, à expliquer\nc. natalité faible mortalité très faible\n\npartie 2\n1. il fallait utiliser uniquement le doc 1\n3. manque de main d'oeuvre\n4. Quel dommage, ce n'est pas % mais pour mille habitants\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"good_class": "bonne participation et travail sérieux"
+		},
+		{
+			"name": "Bastien",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail, mais sans doute en dessous de ce que tu es capable. que s'est il passé ? ",
+			"bad_copie": "partie 1\ncroissance démographique : tu me dis que c'est une évolution mais évoluer peut dire augmenter ou baisser alors que croissance siginifie toujours augmenter.\nexercice 2\na. Explique plus l'IDH\nc. dans les pays développés, la natalité est faible, mortalité très faible\n\npartie 2\n5. C'était avec le doc 2.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"good_class": "bonne participation et travail toujours sérieux"
+		},
+		{
+			"name": "Emilie ",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail le mots clés sont compris",
+			"bad_copie": "partie 1 exercice 2\na. par l'IDh, à expliquer\nb. se nourrir eau potable\nc. natalité faible mortalité très faible\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "très bonne participation",
+			"bad_class": "ne relâche pas tes efforts"
+		},
+		{
+			"name": "Maureen",
+			"grade": 9.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "C'est encore un peu juste mais mieux que le dernier devoir. tu sais définir les mots clés",
+			"bad_copie": "le texte n'est pas compris, le graphique peu alors qu'il a été vu en classe\npartie 2\n2. Il faut lire plus le texte. Il est dit que la population vieillit\n3. problème pour trouver de la main d'oeuvre\n4. quel dommage, tu sais lire un graphique mais tu t'es trompée dans l'unité, ce n'est pas % mais pour mille\n5. encore l'unité, pour mille habitant.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"good_class": "bonne participation",
+			"bad_class": "ne relâche pas tes efforts"
+		},
+		{
+			"name": "elodie",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "quel beau progrès ! texte et document bien compris.",
+			"bad_copie": "partie 1\npays du nord : pays riches et développés\n\nexercice 2\na. par l'IDH\nc. j'ai accepté ta réponse. il fallait préciser que la natalité restait faible mais que la mortalité était très faible ( soins médicaux ) donc la population augmente un peu.\n\npartie 2\n1. tu n'as pas tout lu. en fait la population diminue.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n\n\n",
+			"good_class": "travail très sérieux",
+			"bad_class": "participe un peu plus"
+		},
+		{
+			"name": "Mathilde",
+			"grade": 8,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours est en partie revu mais tu te mélanges encore trop\nbon paragraphe !",
+			"bad_copie": "partie 1\npays émergent : pays qui se développe et s'enrichit vite\n\nexercice 2\na. par l'IDH, à expliquer\nb. se nourrir eau potable soins\nc. natalité faible mortalité très faible\n\npartie 2\n2. Il faut lire plus le texte. Il est dit que la population vieillit\n3. problème pour trouver de la main d'oeuvre\n4. quel dommage, tu sais lire un graphique mais tu t'es trompée dans l'unité, ce n'est pas % mais pour mille\n5. tu écrits au hasard là. il fallait trouver la réponse dans le document 2. on voit que la population diminue.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"good_class": "bonne participation",
+			"bad_class": "ne relâche pas tes efforts"
+		},
+		{
+			"name": "Lucie",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bravo, c'est en net progrès !\nle cours a été revu, il y a plus de choses comprises",
+			"bad_copie": "partie 1\ntu te mélanges dans les termes\ncroissance démographique : augmentation de la population\npays émergent : pays qui se développe vite\n\nexercice 2\na. par l'IDH, à expliquer\nb. se nourrir, eau potable, soins\nc. je te demandais comment évoluait la population dans les pays développés. Donc il fallait parler de natalité et de mortalité.\n\npartie 2\n1. Le texte est mal compris. tu mélanges les chiffres. La population diminue, 81 millions, 73 millions\n2; la population veillit\n3. et problème pour trouver de la main d'oeuvre\n\npartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n\n\n",
+			"good_class": "travail très sérieux",
+			"bad_class": "essaye de participer.."
+		},
+		{
+			"name": "Léna",
+			"grade": 9,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est mieux que le dernier devoir.\nle cours a été revu tu sais définir les mots clés",
+			"bad_copie": "graphique non compris pourtant il a été vu en classe\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n\n",
+			"good_class": "bonne participation en classe !",
+			"bad_class": "ne relâche pas tes efforts"
+		},
+		{
+			"name": "Eda",
+			"grade": 8.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "très bien pour le graphique, c'est compris.",
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"good_class": "très bonne participation",
+			"bad_class": "ne relâche pas tes efforts"
+		},
+		{
+			"name": "Nathan",
+			"grade": 8,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "c'est mieux, en léger progrès.\nLes définitions sont connues.",
+			"bad_copie": "le texte et le graphique pose problème.\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n\n",
+			"good_class": "c'est en léger progrès, tu es plus concentré"
+		},
+		{
+			"name": "Romain",
+			"grade": 6.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "texte doc 1 assez bien compris",
+			"bad_copie": "le cours n'est pas assez revu.\npartie 1\nsur la croissance démographique, tu ne définis pas le terme. C'est l'augmentation de la population.\npays du Nord pays riches et développés\npays émergents : pays qui se développent et s'enrichissent vite\n\nexercice 2\na. explique ce qu'est l'IDH à l'aide du cours\nb. se nourrir eau potable soins\nc. natalité faible, mortalité très faible.\n\npartie 2 : le doc 2 a été vu en classe\nil faut justifier à l'aide de chiffres\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "ce devoir s'est très bien passé, tu étais très concentré, silencieux. Il y a quelques progrès dans l'attitude depuis quelques temps. ",
+			"bad_class": "Avoir un cahier neuf. Cela fait plusieurs fois que je le demande, y compris par écrit."
+		},
+		{
+			"name": "Alan",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "le cours n'est pas revu. Travailler au collège va te permettre SEUL de choisir ce que tu vas faire plus tard, sinon l'école risque de décider à ta place.\n\npartie 1 c'était uniquement du cours, toutes les réponses étaient dans le cahier.\ncroissance démographique : c'est l'augmentation de la population. Evolution veut dire baisser ou augmenter, c'est trop vague.\npays du nord : pays riche et développé\npays émergent : pays qui se développe vite\n\nexercice 2\na. par l'IDH, à expliquer en détail.\nb. se nourrir, eau potable, soins\nc. natalité faible, mortalité très faible\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"bad_class": "mets toi réellement au travail et n'hésite pas à me dire quand tu ne comprends pas"
+		},
+		{
+			"name": "Hamza",
+			"grade": 4,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "partie 1 c'était le cours. \npays du Nord : pays riche et développé\nexercice 2\na.grâce à l'IDH à expliquer en détail\nb. se nourrir eau potable soins\nc. natalité faible mortalité très faible, donc la population augmente un peu.\n\nPartie 2 : le document 2 avait été vu en classe, tu ne montres pas que tu sais lire un graphique alors que je pense que tu le sais.\n1. elle diminue 81 millions aujourd\"hui, 73 millions en 2060. Tout était dans le texte.\n2. population vieillit\n3. problèmes pour trouver de la main d'oeuvre.\n4. natalité est de 17 pour mille habitants et mortalité 11 pour mille.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"bad_class": "agitation en permanence, intimidation sur la voisine pour qu'elle donne des réponses pendant le devoir."
+		},
+		{
+			"name": "Stewen",
+			"grade": 3,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "partie 1 : c'était uniquement du cours\npays émergent : pays qui se développe et s'enrichit vite\ncroissance démographique : augmentation générale de la population.\n\nexercice 2\na.grâce à l'IDH à expliquer en détail\nb. se nourrir eau potable soins\nc. natalité faible mortalité très faible, donc la population augmente un peu.\n\nPartie 2 : le document 2 avait été vu en classe, tu ne montres pas que tu sais lire un graphique alors que je pense que tu le sais.\n1. elle diminue 81 millions aujourd\"hui, 73 millions en 2060. Tout était dans le texte.\n2. population vieillit\n3. problèmes pour trouver de la main d'oeuvre.\n4. natalité est de 17 pour mille habitants et mortalité 11 pour mille.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"bad_class": "tu fais des remarques en permanence et tu te déconcentres régulièrement.\nTravailler au collège va te permettre de choisir SEUL ton orientation, ce que tu vas faire plus tard, sinon l'école risque de choisir à ta place."
+		},
+		{
+			"name": "Allan",
+			"grade": 5.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas revu, la partie 1 etait uniquement du cours\npays du Nord : pays riches et développés\npays émergent pays qui se développe et s'enrichit vite.\n\nExercice 2\na. grâce à l'IDH, à expliquer en détail voir cours.\nc. Dans les pays développés, la natalité est faible et la mortalité très faible grâce aux progrès médicaux donc il y a quand même un accroissement naturel.\n\nPartie 2 : le document avait été vu en classe.\n4. Ce n'est pas % mais pour mille.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "le travail en classe est assez sérieux",
+			"bad_class": "essaye de participe un peu plus"
+		},
+		{
+			"name": "Bilal",
+			"grade": 1,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"bad_copie": "il y a de gros mélanges. \nLa partie 1 était du cours uniquement.\nLa partie 2, le document a été vu en classe. Tu as des difficultés à lire le graphique.\nPartie 3 : dans les pays du Nord, il n'y a pas plein d'enfants, la natalité est assez faible alors que dans les pays du Sud, la natalité est assez forte. ",
+			"bad_class": "tu te déconcentres souvent et il y a très peu de travail"
+		},
+		{
+			"name": "Baptiste",
+			"grade": 1,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"bad_copie": "c'est une copie blanche.\nTravailler à l'école va te permettre de choisir seul ton ce que tu vas faire plus tard, que l'école ne décide pas à ta place. \n\nPartie 1 : c'était uniquement du cours\nPartie 2 : un document était vu en classe.",
+			"good_class": "un peu mieux depuis quelques cours sur l'agitation",
+			"bad_class": "par contre il n'y a pas de travail"
+		}
+	]
+}
