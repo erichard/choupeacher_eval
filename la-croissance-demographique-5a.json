@@ -1,8 +1,98 @@
 {
+	"title": "La croissance démographique",
+	"classe": "5A",
+	"date": "2017-11-22",
+	"id": "la-croissance-demographique",
 	"eleve": [
 		{
+			"name": "Dylan",
+			"grade": 17,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "excellent travail !! bravo ! texte et paragraphe compris, beaucoup de progrès",
+			"bad_copie": "exercice 1\na. IDH à expliquer, voir cours. ",
+			"good_class": "des progrès en participation, continue, il y a vraiment des efforts !"
+		},
+		{
+			"name": "Emma",
+			"grade": 20,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "BRAVO....excellent travail c'est brillant.",
+			"bad_copie": "exemple pour le paragraphe\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins. ( Brésil par exemple )",
+			"good_class": "excellent pour tout !"
+		},
+		{
+			"name": "Antoine",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! le cours est revu, compris, texte aussi. le graphique très bien ! Bravo",
+			"bad_copie": "quelques détails\nExplique ce qu'est l'IDH.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins. ( Brésil par exemple )",
+			"good_class": "excellente participation, de très gros progrès par rapport à l'année dernière. C'est vraiment un bon trimestre, il y a beaucoup d'efforts en classe."
+		},
+		{
+			"name": "Léa",
+			"grade": 14,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail en net progrès ! bon paragraphe, le travail est sérieux. Le texte est compris.",
+			"bad_copie": "c'est le graphique qui te fait perdre beaucoup de points, tu as oublié l'unité, ce n'est pas en % mais pour 1000 habitants.\n\nPartie 2\n2. vieillissement de la population.\n4. TU ajoutes pour mille habitants.\n5. même chose pour mille habitants.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins. ( Brésil par exemple )",
+			"good_class": "travail très sérieux beaucoup d'effort, et parfois bonne participation"
+		},
+		{
+			"name": "Salomé",
+			"grade": 18.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail ! tout est revu compris et très précis !",
+			"bad_copie": "partie 1\nexercice 2\na. par l'IDH, à expliquer.\nc. peu de natalité, très peu de mortalité, donc il y a un peu d'accroissement naturel. ",
+			"good_class": "excellent pour tout !!"
+		},
+		{
+			"name": "Séfora",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail !! tout est revu compris bien écrit !",
+			"bad_copie": "partie 2 \n2. Tu réponds déjà manque de main d'oeuvre à la question 3 donc ça ne peut pas être ça pour la 2. C'est le vieillissement. ",
+			"good_class": "excellent pour tout, bravo !"
+		},
+		{
+			"name": "Flavie",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Excellent travail ! Bravo. Tout est compris, le paragraphe est très réussi tout est revu. C'est brillant.",
+			"bad_copie": "quelques détails\npartie 1\nexercice 2\na. Détaille plus l'IDH. \n\npartie 2\n3. manque de main d'oeuvre.",
+			"good_class": "excellent pour tout, bravo. De l'intérêt, de la participation, beaucoup de sérieux"
+		},
+		{
+			"name": "Simon",
+			"grade": 17.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! beau progrès ! le cours st revu, compris, tu sais définir les mots clés, texte compris, le graphique aussi et le paragraphe très réussi.",
+			"bad_copie": "ce sont quelques détails.\npartie 1\nexercice 2\na. Il faut détailler IDH, voir cours.\n\nPartie 2\n5. Quel dommage, justifie avec des chiffres.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins. ( Brésil par exemple )",
+			"good_class": "excellente participation, en très grand progrès, c'est impressionnant. Continue !"
+		},
+		{
+			"name": "Sarah ",
+			"grade": 13.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Assez bon devoir, le cours a été revu ! tu sais définir les mots clés, texte en grande partie compris. ",
+			"bad_copie": "Tu manques des points parce que tu n'as pas regardé le bon document à la question 5, c'est dommage, et à la question 3, tu me dis la même réponse que la question 1, c'est donc que c'était autre chose.\nIl ne te manque pas grande chose pour une très bonne note, sois plus attentive et fais toi confiance.\n\npartie 1\npays émergent : pays qui se développe et s'enrichit vite.\nexercice 2\na. Détaille l'IDH\n\nPartie 2\n3. manque de main d'oeuvre\n4. Quel dommage ! tu oublies l'unité, ce n'est pas % mais pour mille habitants ! o avait vu ce graphique en classe.\n5. la natalité diminue donc le pays perd de la population. prouve le avec des chiffres du graphique.\n\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "travail très sérieux, bonne participation continue"
+		},
+		{
+			"name": "Thomas",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Bon devoir, bien mieux! Le cours est revu, texte et graphique aussi, le paragraphe est assez réussi. Beau progrès.",
+			"bad_copie": "Il ne te manque pas grand chose. \n\nExercice 1. Tu as oublié de définir croissance démographique, dommage, c'était sur 2 points.\nexercice 2\na. Il faut détailler l'IDH\nb. Se nourrir et eau potable en priorité\npartie 3. Il te manque quelques mots clés comme inégalité socio spatiale, IDH faible ou fort.\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.\n",
+			"good_class": "bien meilleure participation, beaucoup de sérieux !"
 		},
 		{
 			"name": "Suzon",
