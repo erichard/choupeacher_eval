@@ -5,8 +5,52 @@
 	"id": "democaties-et-experiences-totalitaires",
 	"eleve": [
 		{
+			"name": "Iliès",
+			"grade": 16.5,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! ça marche\nexcellent paragraphe c'est très réussi.\nbien pour les docs méthode comprise",
+			"bad_copie": "quel dommage pour les dates ! la prochaine fois, par coeur..\nil ne manque pas grand chose !",
+			"good_class": "très bon travail excellente participation",
+			"bad_class": "attention à laisser la parole aux autres..."
+		},
+		{
+			"name": "Samléo",
+			"grade": 16.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail. excellent pour les docs, c'est bien compris, tu développes au max et tu justifie. Bien pour les dates.\nbeau progrès",
+			"bad_copie": "partie 3\ndommage pour la France.",
+			"good_class": "très bonne participation bon trvavail en classe"
+		},
+		{
+			"name": "Paul",
+			"grade": 14,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail. docs compris, dates c'est bien. ",
+			"bad_copie": "la prochaine fois les mots clés c'est par coeur ...\n\npartie 2 développe tes réponses puis JUSTIFIE = citer le doc\n\nPartie 3\ntu oublies l'essentiel. En quoi c'est une démocratie ? Parler du Front populaire, des accords de Matignon\nAllemagne : tu racontes dates par dates. Ce n'est pas ce qui est demandé En quoi c'est un Etat totalitaire ? \nURSS : même chose",
+			"good_class": "mieux, plus concentré, plus de travail, plus de participation",
+			"bad_class": "continue"
+		},
+		{
+			"name": "Jimmy",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail ! le cours est revu docs compris",
+			"bad_copie": "quel dommage de perdre autant de points sur les dates et les mots clés !\n\npartie 3\ntu oublies l'essentiel. En quoi c'est une démocratie ? Parler du Front populaire, des accords de Matignon\nAllemagne : tu racontes dates par dates. Ce n'est pas ce qui est demandé En quoi c'est un Etat totalitaire ? \nURSS : même chose",
+			"good_class": "travail sérieux bonne participation !",
+			"bad_class": "attention parfois bavardages"
+		},
+		{
+			"name": "Alicia",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail ! cours revu docs compris, assez bon paragraphe",
+			"bad_copie": "dates à revoir, la prochaine fois c'est par coeur\n\npartie 2 il faut JUSTIFIER  = citer le doc et développer au max la réponse\n\n2. Explique plus. parasite..antisémite\n\nPartie 3\n\nun très bel effort ! Attention, ne \" juge \" jamais l'histoire, ne donne pas ton avis. Ce qui est passé est passé; ce qui nous importe est de comprendre comment et pourquoi. Pas de distribuer les bons ou mauvais points.\nIl faut développer le Front Populaire.",
+			"good_class": "travail très sérieux bonne participation !"
 		},
 		{
 			"name": "Jules",
