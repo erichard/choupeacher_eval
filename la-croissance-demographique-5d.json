@@ -5,11 +5,58 @@
 	"id": "la-croissance-demographique",
 	"eleve": [
 		{
+			"name": "Eliette",
+			"grade": 20,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Excellent bravo, quel beau travail !  tout est compris",
+			"good_class": "travail très sérieux excellente participation"
+		},
+		{
+			"name": "Lisa",
+			"grade": 20,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "exellent ! tout est compris et bien rédigé ! résultat brillant.",
+			"good_class": "excellente participation continue"
+		},
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! c'est revu et compris",
+			"bad_copie": "partie 3 manque de mots techniques : ségrégation socio spatiale, inégalités, croissance démographique...les problèmes : payer les retraites, accès aux soins.",
+			"good_class": "travail sérieux",
+			"bad_class": "participe encore plus"
+		},
+		{
+			"name": "raphaël",
+			"grade": 16.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail !! partie 2 très bien réussie donc les méthodes sont comprises. ",
+			"bad_copie": "il manque quelques mots clés partie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins. Il y a aussi de la ségrégation socio spatiale. ",
+			"good_class": "le travail est fait et bonne participation ",
+			"bad_class": "trop de bavardages"
+		},
+		{
+			"name": "Noëline",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! c'est très sérieux, bravo pour le paragraphe, la rédaction s'est améliorée.",
+			"bad_copie": "regarde la correction en vert sur ta copie, il ne manque pas grand chose ! ",
+			"good_class": "travail très sérieux",
+			"bad_class": "participe encore plus ! "
+		},
+		{
 			"name": "Garance",
 			"grade": 15,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "assez bon travail mais tu es capable de bien plus que cela...et tu le sais. partie 2 assez réussie. "
+			"good_copie": "bon travail. La partie 2 est bien réussie, le paragraphe aussi",
+			"bad_copie": "partie 1\nexercice 2 : A. Il fallait parler de l'IDH. Pour la question c : faible natalité, très faible mortalité, donc la population augmente un peu. \n\npartie 2 question 5. Justifie par des chiffres\n",
+			"good_class": "assez bonne participation",
+			"bad_class": "mais bavardages"
 		},
 		{
 			"name": "Ewen s",
