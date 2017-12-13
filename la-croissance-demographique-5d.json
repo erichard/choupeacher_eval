@@ -1,0 +1,206 @@
+{
+	"title": "La croissance démographique",
+	"classe": "5D",
+	"date": "2017-11-22",
+	"id": "la-croissance-demographique",
+	"eleve": [
+		{
+			"name": "Garance",
+			"grade": 15,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail mais tu es capable de bien plus que cela...et tu le sais. partie 2 assez réussie. "
+		},
+		{
+			"name": "Ewen s",
+			"grade": 13,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail, beau progrès ! partie 2 réussie, donc les méthodes sont comprises. Le cours a été revu",
+			"bad_copie": "il faut revoir encore plus dans les détails. pour la partie 3 il faut réutiliser le vocabulaire vus en classe\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "de gros progrès ! très bonne participation travail très sérieux continue !!"
+		},
+		{
+			"name": "maud",
+			"grade": 11.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "travail correct, mais je suis sûre que tu es capable de plus. partie 2 très bien réussis donc les méthodes sont comprises",
+			"bad_copie": "c'est le cours qui n'est pas revu dans les détails.\n\npour la partie 3, il faut réutiliser tous les mots clés.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "bien meilleure participation, de gros progrès le travail est sérieux"
+		},
+		{
+			"name": "Maëna",
+			"grade": 11.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est correct, mieux que le dernier devoir mais tu peux mieux faire. le cours a été revvu",
+			"bad_copie": "cours non revu dans les détails, texte mal compris.\npour la partie 3, il faut réutiliser tous les mots clés vus dans le chapitre.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "travail sérieux et assez bonne participation"
+		},
+		{
+			"name": "Antonin",
+			"grade": 11.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est correct, mais largement en dessous de ce que tu es capable de faire ! la partie 2 est réussie donc les méthodes sont comprises",
+			"bad_copie": "c'est le cours qui n'est pas revu dans les détails\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "le travail demandé est fait",
+			"bad_class": "mais bien plus lentement que l'année dernière et il y a des bavardages"
+		},
+		{
+			"name": "Marie",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": true,
+			"good_copie": "c'est bien en dessous de ce que tu es capable de faire..la partie 2 est très bien réussi, donc les méthodes sont comprises",
+			"bad_copie": "le cours n'est pas revu dans les détails !\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "le travail demandé est fait",
+			"bad_class": "mais bien plus lentement que l'année dernière, beaucoup de bavardages !"
+		},
+		{
+			"name": "Carl",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"bad_copie": "partie 2 : le doc 2 a été vu en classe.\n1. C'est avec le document 1 Attention à tout lire\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "travail assez sérieux",
+			"bad_class": "trop de bavardage"
+		},
+		{
+			"name": "Thomas",
+			"grade": 10.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été bien rebu c'est sûr. ",
+			"bad_copie": "texte mal compris, graphique pas du tout compris;\n\npartie 2\n3. vieillisement de la population\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\npartie 2 : le doc 2 a été vu en classe.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "bonne participation",
+			"bad_class": "mais trop de bavardage"
+		},
+		{
+			"name": "Matihs",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bien pour le graphique, le cours a été revu en parti, le texte est compris",
+			"bad_copie": "partie 1, ex 2\nc. faible natalité, très faible mortalité, la population augmente un peu.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population vieillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "parfois bon trvavail c'est sérieux ",
+			"bad_class": "trop de bavardage !"
+		},
+		{
+			"name": "Malorie",
+			"grade": 10,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été revu",
+			"bad_copie": "c'est encore un peu trop juste et certainement en dessous de ce que tu peux faire.\nIl faut revoir le cours plus en détail. \n\npartie 1, ex 2\nc. faible natalité, très faible mortalité, la population augmente un peu.\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "très bonne participation et travail très sérieux",
+			"bad_class": "ne te décourage pas"
+		},
+		{
+			"name": "Karim",
+			"grade": 9,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "c'est trop juste tu es capable de bien plus que cela. \nles mots clés ne sont pas vraiment revus\n\npartie 1, ex 2\nc. faible natalité, très faible mortalité, la population augmente un peu.\n\nLe cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "le travail demandé est fait",
+			"bad_class": "beaucoup de bavardages"
+		},
+		{
+			"name": "Kahina",
+			"grade": 8,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "partie 2 assez bien comprise",
+			"bad_copie": "c'est la partie 1 ( le cours ) qui pose problème, il n'est ps revu dans les détails.\n\npartie 1\ndéveloppement durable : développer un pays sans nuire aux générations futures\ncroissance démographique : augmentation générale de la population\npays émergent  : il se développe et s'enrichit vite\n\nLe cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "bravo pour l'amélioration très nette : beaucoup de participation, travail très sérieux",
+			"bad_class": "ne te décourage pas"
+		},
+		{
+			"name": "Cameron",
+			"grade": 6.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "parfois, tu travailles sérieusement et tu participes, parfois pas du tout"
+		},
+		{
+			"name": "Nicolas",
+			"grade": 5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "bonne participation et travail sérieux en classe pourtant"
+		},
+		{
+			"name": "Ewen",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe. Texte mal compris\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "parfois super, le travail est sérieux et tu participes, parfois pas du tout",
+			"bad_class": "cesse de bavarder.."
+		},
+		{
+			"name": "Rayan",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "très irrégulier, parfois super bien, participation en classe et travail sérieux parfois non",
+			"bad_class": "ton attitude se dégrade, tu bavardes plus qu'au début de l'année"
+		},
+		{
+			"name": "Marek",
+			"grade": 5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "tu es capable d'être excellent, de participer, de travailler de tout connaître, et pourtant, ton attitude se dégrade à nouveau. ",
+			"bad_class": "tu attends que le temps passe et tu bavardes.."
+		},
+		{
+			"name": "Flavie",
+			"grade": 5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas vraiment revu, tu ne sais pas définir les mots clés. Résultat inquiétant.\n\npartie 2 : le doc 2 a été vu en classe.\n2; la population veillit\n4. prouve le avec des chiffres en lisant le graphique. natalité 17 pour mille habitats mortalité 11 pour mille.\n5. la population diminue, on le voit sur le graphique, prouve le avec des chiffres\n\nPartie 3\ndans les pays du Nord, la population augmente peu car la natalité est faible. Cela pose des problèmes de vieillissement de la population, il faut payer plus de retraites alors qu'il y a moins de personnes jeunes au travail. Ils font souvent appel à l'immigration comme en Allemagne. Dans les pays du Sud, la natalité est forte, la population est plutôt jeune. Cela pose le problème du partage des richesses et de l'accès pour tous et toutes à l'éducation et aux soins.",
+			"good_class": "c'est en progrès, très bonne participation et travail plus sérieux",
+			"bad_class": "il faut continuer à travailler, encore plus en classe"
+		},
+		{
+			"name": "Cassandra",
+			"grade": 4,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "résultat inquiétant. \nLes document sont peu compris. Il va falloir être très attentive en classe pour progresser. \n\nTravailler à l'école va te permettre de choisir seul ton ce que tu vas faire plus tard, que l'école ne décide pas à ta place. \n\nPartie 1 : c'était uniquement du cours\nPartie 2 : un document était vu en classe.",
+			"good_class": "des progrès dans la participation et le travail c'est bien mieux",
+			"bad_class": "continue et ne te décourage pas"
+		},
+		{
+			"name": "Killian",
+			"grade": 3.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "Résultat inquiétant. Il y a de gros mélanges. \nTravailler à l'école va te permettre de choisir seul ton ce que tu vas faire plus tard, que l'école ne décide pas à ta place. \n\nPartie 1 : c'était uniquement du cours\nPartie 2 : un document était vu en classe.Il ne faut pas oublier que c'est pour mille habitants et non %.",
+			"bad_class": "très peu de travail, tu n'es pas souvent tes affaires, les devoirs à la maison ne sont pas faits.\ntu gênes la classe"
+		},
+		{
+			"name": "Luxiana",
+			"grade": 1.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "résultat inquiétant. Le cours n'est pas revu.\n\nTravailler à l'école va te permettre de choisir seul ton ce que tu vas faire plus tard, que l'école ne décide pas à ta place. \n\nPartie 1 : c'était uniquement du cours\nPartie 2 : un document était vu en classe.",
+			"good_class": "il y a plus de sérieux moins de bavardage",
+			"bad_class": "il faut désormais travailler réellement en classe et à la maison"
+		},
+		{
+			"name": "Kyllian",
+			"grade": 1.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "résultat très inquiétant. Tout est mélangé. \n\nTravailler à l'école va te permettre de choisir seul ton ce que tu vas faire plus tard, que l'école ne décide pas à ta place. \n\nPartie 1 : c'était uniquement du cours\nPartie 2 : un document était vu en classe.",
+			"bad_class": "très peu de travail beaucoup de tentatives pour faire autre chose"
+		}
+	]
+}
