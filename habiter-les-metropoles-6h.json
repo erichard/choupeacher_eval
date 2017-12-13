@@ -1,0 +1,217 @@
+{
+	"title": "Habiter les métropoles",
+	"classe": "6H",
+	"date": "2017-11-21",
+	"id": "habiter-les-metropoles",
+	"eleve": [
+		{
+			"name": "emili",
+			"grade": 18.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent bravo !! tout est revu est comris",
+			"good_class": "participation très dynamique et intéressante, travail très sérieux"
+		},
+		{
+			"name": "Zoé H",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail  cours revu, compris",
+			"bad_copie": "question f : ségrégation socio spatiale, problème des transports, coût des logements, inégalités..il manque du vocabulaire. \n\ncroissance urbaine : augmentation de la population des villes",
+			"good_class": "travail très sérieux et des efforts pour participer"
+		},
+		{
+			"name": "Nina",
+			"grade": 18,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent bravo cours revu et compris ! ",
+			"good_class": "excellente participation travail très sérieux",
+			"bad_class": "parfois quelques bavardages ! "
+		},
+		{
+			"name": "Justine",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! c'est sérieux le cours est bien revu",
+			"bad_copie": "le graphique est mal compris\nen 1950 il y a 4 millions d'habitants à Mumbaï",
+			"good_class": "de gros progrès dans la participation ! continue. travail très sérieux"
+		},
+		{
+			"name": "Malak",
+			"grade": 10.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été assez bien revu",
+			"bad_copie": "mais le graphique n'est pas du tout compris. En 1950, il y a 4 millions d'habitants à Mumbaï.\nil faut revoir le cours encore plus dans les détails.\nc'est un peu juste pour une évaluation de rattrapage.",
+			"good_class": "très bonne participation et travail très sérieux"
+		},
+		{
+			"name": "Inès",
+			"grade": 14,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail, le cours a été bien revu c'est sérieux",
+			"bad_copie": "par contre, le graphique n'est pas du tout compris, il faut le revoir.\n\nEn 1950, il y a 4 millions d'habitants à Mumbaï.",
+			"good_class": "très bonne participation ! travail sérieux"
+		},
+		{
+			"name": "Abby",
+			"grade": 13.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail c'est sérieux le cours a été revu",
+			"bad_copie": "le graphique n'est pas compris, il faut absolument le revoir.\n\nen 1950, il y a 4 millions d'habitants à Mumbaï.",
+			"good_class": "des efforts pour participer",
+			"bad_class": "ne te décourage pas continue"
+		},
+		{
+			"name": "Zoé S",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail le cours est en partie revu, très bien pour le graphique",
+			"bad_copie": "le cours n'est pas revu dans les détails tu perds trop de points à a partie 1. C'est dommage pour une évaluation de rattrapage, ce résultat est en dessous de ce que tu peux faire ! ",
+			"good_class": "très bonne participation ! travail sérieux"
+		},
+		{
+			"name": "noah",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail le cours a été revu, bravo pour le graphique c'est compris",
+			"bad_copie": "le cours n'est pas revu dans les détails, tu perds trop de points dessus",
+			"good_class": "très bonne participation",
+			"bad_class": "mais attention à respecter la prise de parole des autres\ntout le cours doit être noté !"
+		},
+		{
+			"name": "Madygane",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail le cours a été revu c'est sûr, très bien pour la graphique",
+			"bad_copie": "il faut revoir plus dans les détails, tu perds trop de points exercice 2",
+			"good_class": "très bonne participation travail très sérieux"
+		},
+		{
+			"name": "Kayliah",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail, le cours a été revu assez bien ! ",
+			"bad_copie": "quel dommage, manque de temps pour la partie 2 ? \nS tu manques de temps, c'est que tu en prends trop pour la partie 1, trop de temps pour te souvenir du cours. Essaye de le revoir plus en détail la prochaine fois, tu devrais avoir le temps de tout finir. ",
+			"good_class": "travail assez sérieux",
+			"bad_class": "participe plus"
+		},
+		{
+			"name": "Lorenzo",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours est en partie revu",
+			"bad_copie": "mais tu dois devenir plus précis : connaître bien les mots clés, tu perds trop de points dessus.\n\nexercice 2 : CBD quartier des affaires, central buisiness district\n\npartie 3 : le graphique n'est pas compris. Entraînes toi. Il y a 4 millions d'habitants à Mumbaï en 1950.",
+			"good_class": "bonne participation ! ",
+			"bad_class": "attention parfois aux bavardages"
+		},
+		{
+			"name": "Cathie",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été revu, tu sais répondre à pas mal de question, le graphique est compris",
+			"bad_copie": "mais il faut revoir plus en détail encore. ( fonctions des métropoles, définir métropole)\n\npartie 2\nOui Mumbaï est en croissance démographique car on voit que la population augmente.",
+			"good_class": "parfois bonne participation",
+			"bad_class": "attention aux bavardages"
+		},
+		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
+			"name": "Melda",
+			"grade": 11,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le graphique est à peu près compris et le cours est en partie revu",
+			"bad_copie": "un peu juste pour une évaluation de rattrapage. \nil faut revoir le cours plus précisément. ( exercice 2, 6/12 )",
+			"good_class": "parfois bonne participation",
+			"bad_class": "mais trop de bavardages"
+		},
+		{
+			"name": "Léna",
+			"grade": 10.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "graphique à peu près compris, le cours est en parti revu. ",
+			"bad_copie": "Il s'agissait d'une évaluation de rattrapage, j'avais tout réexpliquer. C'est un peu trop juste.\nil faut revoir le cours plus en détail",
+			"good_class": "Bonne participation",
+			"bad_class": "mais trop de bavardages parfois"
+		},
+		{
+			"name": "Amandine ",
+			"grade": 10.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été revu, tu sais répondre à plusieurs questions",
+			"bad_copie": "le graphique n'est pas compris, pourtant, on a fait quasiment le même en classe.\nil faut définir les termes clés plus précisement. ",
+			"good_class": "parfois bonne participation",
+			"bad_class": "mais trop de bavardages"
+		},
+		{
+			"name": "Donovan",
+			"grade": 7.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "le graphique est compris",
+			"bad_copie": "Le cours n'est absolument pas revu ! Il s'agissait d'une évaluation de rattrapage, j'avais tout réexpliquer. \ntu sais te débrouiller sur document, ce qu'il te manque, c'est d'apprendre le cours pour répondre aux questions partie 1. ",
+			"good_class": "travail assez sérieux",
+			"bad_class": "attention aux bavardages"
+		},
+		{
+			"name": "Victor",
+			"grade": 7.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "les mots clés sont bien connus.\n",
+			"bad_copie": "Le cours n'est absolument pas revu ! Il s'agissait d'une évaluation de rattrapage, j'avais tout réexpliquer. \nla page 176 du manuel n'a pas été assez revue.\nle graphique n'est pas compris. ",
+			"good_class": "bien meilleure attitude ! tu participes, tu travailles sérieusement, c'est en progrès !",
+			"bad_class": "ne te décourage pas !"
+		},
+		{
+			"name": "Marine",
+			"grade": 4.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est absolument pas revu ! Il s'agissait d'une évaluation de rattrapage, j'avais tout réexpliquer. \nIl y a un manque de travail inquiétant. Marine tu n'est QUE en 6e ! \nS'il y a un problème et que tu ne comprends pas il faut absolument m'en parler.",
+			"good_class": "parfois bonne participation",
+			"bad_class": "trop de bavardages"
+		},
+		{
+			"name": "Lucas",
+			"grade": 7.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"good_copie": "tu connais à peu près les mots clés.",
+			"bad_copie": "c'est beaucoup trop juste pour une évaluation de rattrapage. \nle graphique n'est pas compris.",
+			"bad_class": "beaucoup trop de bavardages et de jeux en classe"
+		},
+		{
+			"name": "Oriane",
+			"grade": 2.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "Le cours n'est absolument pas revu ! Il s'agissait d'une évaluation de rattrapage, j'avais tout réexpliquer. \nIl y a un manque de travail inquiétant. Oriane, tu n'est QUE en 6e ! ",
+			"bad_class": "il y a très peu de travail en classe et beaucoup de bavardage. \nIl y a urgence à changer d'attitude."
+		},
+		{
+			"name": "Emie",
+			"grade": 2.5,
+			"alerte_cours": true,
+			"alerte_comportement": true,
+			"bad_copie": "Le cours n'est absolument pas revu ! Il s'agissait d'une évaluation de rattrapage, j'avais tout réexpliquer. \nIl y a un manque de travail inquiétant. Emie, tu n'est QUE en 6e ! \n",
+			"bad_class": "en classe, tu évites le travail et souffle quand je viens te voir.\nIl est temps de changer d'attitude. \nQue se passe t-il ? "
+		}
+	]
+}
