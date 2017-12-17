@@ -5,6 +5,16 @@
 	"id": "democraties-et-experiences-totalitaires",
 	"eleve": [
 		{
+			"name": "Faustine",
+			"grade": 9.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "documents à peu près compris et bien pour les dates",
+			"bad_copie": "c'est un peu trop juste, le cours n'est pas revu dans les détails. \nPartie 3\nOn te demande comment totalitarismes et démocratie s'opposent. Il y a donc 3 paragraphes, France = démocratie avec le Front populaire à expliquer, URSS et Allemagne Etats totalitaires à expliquer. ",
+			"good_class": "travail sérieux",
+			"bad_class": "participe un peu plus"
+		},
+		{
 			"name": "Edwige",
 			"grade": 20,
 			"alerte_cours": false,
