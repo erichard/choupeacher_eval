@@ -5,10 +5,69 @@
 	"id": "democraties-et-experiences-totalitaires",
 	"eleve": [
 		{
+			"name": "Edwige",
+			"grade": 20,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "BRAVO\ntout est compris, bien expliqué et ton pargraphe a l'avantage d'être très efficace, il ne se perd pas dans les détails, tu ne perds pas de temps à expliquer tout depuis la fin de WW1. Tu es très concentrée sur le sujet. Garde cet état d'esprit. AU brevet, on ne te demandera jamais de raconter tout un chapitre dans un paragraphe, mais d'expliquer un élément d'un chapitre. ",
+			"good_class": "travail toujours excellent",
+			"bad_class": "participe un peu plus..."
+		},
+		{
+			"name": "Gyhane",
+			"grade": 18.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail bravo ! c'est surtout le paragraphe, bravo c'est extrêmement clair et bien revu.Tu es pile dans le sujet, ta rédaction est efficace.",
+			"bad_copie": "front populaire à expliquer : alliance des 3 partis de gauches en France pour contrer l'extrême droite, donne les noms, accèdent au pouvoir par les élections mai 1936. \npangermaniste : politique étrangère nazie aggressive. Lorsque Hitler souhaite construire une grande Allemagne en annexant les Etats voisins. ",
+			"good_class": "très bonne participation travail très sérieux"
+		},
+		{
+			"name": "Manon Lemarié",
+			"grade": 18.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail bravo\ndocuments compris, dates connues très bon paragraphe",
+			"bad_copie": "front populaire dommage, c'est une alliance à 3 partis de gauche",
+			"good_class": "excellente participation travail très sérieux"
+		},
+		{
+			"name": "Amélie",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! bravo pour les dates, les docs sont compris",
+			"bad_copie": "partie 3\nFrance. Qui dirige ? Quand ? Que font-ils ? Front populaire = Blum, Daladier, Thorez qui s'unissent contre l'extrême droite ( qui manifestent le 6 février 1934 ) réformes, accords de Matignon.\n mots clés système totalitaire : un seul chef, parti unique, culte de la personnalité, terreur, répression des opposants, économie dirigée, propagande, embrigadement de la population. ",
+			"good_class": "bonne participation travail très sérieux"
+		},
+		{
+			"name": "MArine",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail. \nexcellent pour les dates, documents compris. Le cours a été bien revu",
+			"bad_copie": "c'est le paragraphe qui pose soucis. \nattention, 40h/semaine et congés payés c'est en France par le Front populaire.\nFrance. Qui dirige ? Quand ? Que font-ils ? Front populaire = Blum, Daladier, Thorez qui s'unissent contre l'extrême droite ( qui manifestent le 6 février 1934 ) réformes, accords de Matignon.\n mots clés système totalitaire : un seul chef, parti unique, culte de la personnalité, terreur, répression des opposants, économie dirigée, propagande, embrigadement de la population. \n\n",
+			"good_class": "travail très sérieux",
+			"bad_class": "participe un peu plus..."
+		},
+		{
+			"name": "Ella",
+			"grade": 15,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail documents compris, très bon paragraphe",
+			"bad_copie": "tu perds trop de points partie 1 c'est dommage\n\npartie 3. Tu racontes tout, sans aller direct à l'essentiel. Par exemple, paragraphe sur URSS tu peux commencer ligne 5 et supprimer tout le début. Pareil pour la France, tu zappes l'essentiel ( Front populaire démocraties, réformes de gauche..) et Allemagne il fallait commencer à \" Hindenburg meurt en 1934 \"",
+			"good_class": "très bonne participation travail sérieux"
+		},
+		{
 			"name": "Manon Leroyer",
 			"grade": 14.5,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "assez bon devoir même si tu vas être déçue. \ndocuments bien compris\nparagraphe réussi même si tu parles de choses que tu aurais pu éviter.",
+			"bad_copie": "dates : dommage, trop de points perdus partie 1\n\nPartie 3.\nTon paragraphe sur la Russie pourrait commencer au moment de Staline, tu gagnes du temps et tu vas directement à l'essentiel. Pareil pour l'Allemagne, commence le en 1933. Excellente idée pour le \" slogan\" nazi, mais il faut l'expliquer.",
+			"good_class": "très bonne participation travail sérieux",
+			"bad_class": "trop de bavardages"
 		},
 		{
 			"name": "Laêtitia",
