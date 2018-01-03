@@ -1,0 +1,214 @@
+{
+	"title": "Premiers Etats premières écritures",
+	"classe": "6H",
+	"date": "2017-12-21",
+	"id": "premiers-etats-premieres-ecritures",
+	"eleve": [
+		{
+			"name": "Noah",
+			"grade": 19,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail ! tu es tellement capable de très bien faire !\ncours revu compris bon paragraphe",
+			"good_class": "bonne participation et travail sérieux",
+			"bad_class": "ne boude pas au moindre problème, il y a toujours une solution\nil va falloir apprendre à travailler avec les autres"
+		},
+		{
+			"name": "Zoé H",
+			"grade": 17.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail bravo !!\ncours revu compris, paragraphe très réussi !",
+			"bad_copie": "dommage pour la  carte..",
+			"good_class": "très bonne participation et travail sérieux continue !"
+		},
+		{
+			"name": "Emili",
+			"grade": 17.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! cours revu et compris, paragraphe intéressant",
+			"bad_copie": "dommage pour la carte..",
+			"good_class": "travail très sérieux, excellente participation !"
+		},
+		{
+			"name": "justine",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! que de progrès !! bravo\n\nle cours est revu et compris très bon paragraphe",
+			"bad_copie": "dommage pour la carte.",
+			"good_class": "continue travail très sérieux, essaye de participer une fois par heure"
+		},
+		{
+			"name": "inès",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! le cours est compris , excellent paragraphe",
+			"bad_copie": "quel dommage pour la carte...\n\ncorrection partie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste",
+			"good_class": "très bon travail et bonne participation"
+		},
+		{
+			"name": "Abby",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "très bon travail ! le cours est compris\nexcellent pour le paragraphe c'est un très bel effort !",
+			"bad_copie": "correction partie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste\n\ndommage pour la carte, la prochaine fois elle est à connaître\n",
+			"good_class": "travail très sérieux continue"
+		},
+		{
+			"name": "nina",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! \nbon paragraphe",
+			"bad_copie": "dommage pour la carte !\n\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste",
+			"good_class": "très bonne participation et travail très sérieux"
+		},
+		{
+			"name": "Zoé",
+			"grade": 14.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail le cours est compris, très bon pragraphe",
+			"bad_copie": "dès qu'il y a une carte collée dans la cahier, il faut savoir placer les lieux, tu perds beaucoup de points dessus.\n\npartie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste",
+			"good_class": "travail sérieux et bonne participation."
+		},
+		{
+			"name": "cathie",
+			"grade": 13,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail ! bien pour la partie 1.\nbon paragraphe",
+			"bad_copie": "dès qu'il y a une carte collée dans la cahier, il faut savoir placer les lieux.\npour le paragraphe, il manque juste les supports d'écritures ( argile, pierre, papyrus )\n",
+			"good_class": "travail assez sérieux"
+		},
+		{
+			"name": "Melda",
+			"grade": 13,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail ! c'est bien pour le paragraphe, tu places pas mal d'informations.",
+			"bad_copie": "le cours n'est pas encore assez revu dans les détails ( partie 1 )\nla carte est à connaître par coeur, dès qu'il y en a une de collée dans le cahier.\n\nexemple de paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes  en Égypte vers 3500 av JC.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort. ",
+			"good_class": "bonne participation travail sérieux"
+		},
+		{
+			"name": "Léna",
+			"grade": 12.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail le cours a été compris.\nBien pour le paragraphe, il y a pas mal de connaissances.",
+			"bad_copie": "exemple de paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes  en Égypte vers 3500 av JC.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort. \n\npour la carte, tout est à connaître.",
+			"good_class": "bonne participation, des efforts en classe"
+		},
+		{
+			"name": "Madygane",
+			"grade": 10.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été relu",
+			"bad_copie": "la carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire. Mer Méditerranée est à savoir écrire.\n\nil faut plus de mots clés dans le paragraphe : exemple\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes  en Égypte vers 3500 av JC.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort. ",
+			"good_class": "bonne participation et travail sérieux en classe"
+		},
+		{
+			"name": "Viguen",
+			"grade": 9.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "c'est en progrès.",
+			"bad_copie": "par contre, le plus difficile n'est pas maîtrisé ( rédiger un paragraphe )\nil faut absolument t'entraîner sérieusement en classe",
+			"bad_class": "concentre toi davantage"
+		},
+		{
+			"name": "Emie",
+			"grade": 9,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "Le cours a été relu",
+			"bad_copie": "mais cela manque de détails, de précision.\n\npartie 1 question 3 : Egypte et mésopotamie\n\npartie 3 : il faut plus de mots clés\n\nutilises tu la fiche de révision ? ",
+			"bad_class": "ne te décourage  pas et essaye de participer une fois par heure"
+		},
+		{
+			"name": "Lorezo",
+			"grade": 9,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "cours relu à peu près compris",
+			"bad_copie": "attention à la propreté et au soin de la copie !\n\nla carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire. Mer Méditerranée est à savoir écrire.\n\nle paragraphe est à rédiger entièrement",
+			"good_class": "parfois bonne participation.\nle travail est sérieux en classe"
+		},
+		{
+			"name": "Malak",
+			"grade": 8.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été relu",
+			"bad_copie": "mais cela manque de précision. \nAs tu manqué de temps pour faire le paragraphe ? Car j'attends beaucoup plus de détails dans la dernière partie.\nla carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire. Mer Méditerranée est à savoir écrire.",
+			"good_class": "très bonne participation travail sérieux"
+		},
+		{
+			"name": "Marine",
+			"grade": 9,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été relu",
+			"bad_copie": "c'est encore un peu trop juste, cours relu mais non appris en détail. \nla carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire. Mer Méditerranée est à savoir écrire.\nj'attends plus de détails dans l'ensemble de la copie.",
+			"good_class": "parfois bonne participation",
+			"bad_class": "concentre toi davantage"
+		},
+		{
+			"name": "Amandine",
+			"grade": 8,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "résultat beaucoup trop juste. Utilises tu la fiche de révision ? \nla carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire. Mer Méditerranée est à savoir écrire.\nil faut rédiger davantage pour le paragraphe.\n",
+			"good_class": "parfois des efforts pour participer",
+			"bad_class": "concentre toi un peu plus en cours"
+		},
+		{
+			"name": "Donovan",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "le cours n'est pas assez revu, pas assez compris.\nla carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire. Mer Méditerranée est à savoir écrire.\nUtilises tu la fiche de révision ? ",
+			"good_class": "parfois bonne participation"
+		},
+		{
+			"name": "Lucas",
+			"grade": 5.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "le cours n'est pas assez revu, pas assez compris.\nla carte est absolument à connaître. Dès que l'on colle une carte dans le cahier, il faut savoir la refaire.\nUtilises tu la fiche de révision ? ",
+			"good_class": "quelques efforts pour plus de sérieux",
+			"bad_class": "participe davantage"
+		},
+		{
+			"name": "Victor",
+			"grade": 4.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "cours très peu compris.\ncarte non revue.\nce résultat est très inquiétant. Que se passe t-il ? ",
+			"good_class": "de gros efforts en classe pour participer et travailler sérieusement, il y a de réels progrès"
+		},
+		{
+			"name": "Oriane",
+			"grade": 4.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "cours non revu. \nLe paragraphe n'est pas rédigé par manque de connaissance. \nCe résultat est inquiétant.",
+			"good_class": "parfois quelques efforts",
+			"bad_class": "mais il faut noter TOUT le cours à TOUS les cours\net rattraper les cours manqués avant de venir en classe.C'est à toi de demander un cahier."
+		},
+		{
+			"name": "Kayliah",
+			"grade": 4,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "le cours n'est pas revu pour l'exercice 1 et la carte.\nIl faut absolument t'entraîner à rédiger de petits paragraphes.\n\nCe résultat est inquiétant. ",
+			"good_class": "parfois bonne participation",
+			"bad_class": "ne te décourage pas et revois tes cours très régulièrement"
+		}
+	]
+}
