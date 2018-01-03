@@ -1,0 +1,227 @@
+{
+	"title": "Premiers Etats",
+	"classe": "6E",
+	"date": "2017-12-22",
+	"id": "premiers-etats",
+	"eleve": [
+		{
+			"name": "Samuel",
+			"grade": 18,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail !! beau progrès.\ncours compris, bon paragraphe.\n",
+			"bad_copie": "dès qu'il y a une carte dans le cahier, elle sera dans le devoir.",
+			"good_class": "bonne participation continue"
+		},
+		{
+			"name": "Quentin",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail bravo !\ncours compris",
+			"bad_copie": "orrection partie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste\ndommage pour la carte : dès qu'il y a une carte dans le cahier, elle sera au devoir.",
+			"good_class": "travail sérieux continue"
+		},
+		{
+			"name": "Wendy",
+			"grade": 17,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "excellent travail en progrès, bravo !\nexcellent paragraphe\ncours compris et bien revu",
+			"good_class": "bonne participation continue"
+		},
+		{
+			"name": "Louna",
+			"grade": 16.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! c'est sérieux ! quel progrès !\ntrès bon paragraphe et bien pour la carte",
+			"bad_copie": "dommage pour MéditeRRanEE...",
+			"good_class": "travail toujours très sérieux",
+			"bad_class": "participe au moins une fois par heure"
+		},
+		{
+			"name": "Marie",
+			"grade": 16.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! c'est très sérieux et compris",
+			"bad_copie": "dommage pour la carte. Dès qu'il y en a une dans le cahier, elle sera au devoir\n\nil faut écrire MéditeRRanéE sans erreur..",
+			"good_class": "travail sérieux assez bonne participation"
+		},
+		{
+			"name": "Manël",
+			"grade": 16,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! \ncours revu compris c'est très sérieux",
+			"bad_copie": "il manque des détails et des mots clés dans le paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les les les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.",
+			"good_class": "très bonne participation et travail sérieux"
+		},
+		{
+			"name": "Elias",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail le cours est revu et compris",
+			"bad_copie": "il manque quelques détails pour le pargraphe mais ce n'est pas grand chose\n\ndommage pour la carte. Dès qu'il y a une carte dans le cahier, elle sera au devoir. ",
+			"good_class": "très bonne participation !"
+		},
+		{
+			"name": "Giani",
+			"grade": 15.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail. le cours a été bien revu et compris",
+			"bad_copie": "dommage quelques erreurs sur la carte\n\nc'est le paragraphe qui te fait perdre le plus de points, alors que tu sais les choses.\naragraphe :\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les les les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.",
+			"good_class": "travail sérieux et bonne participation"
+		},
+		{
+			"name": "Loane",
+			"grade": 15,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! \ncours revu compris, bon paragraphe",
+			"bad_copie": "quel dommage pour la carte. Dès qu'il y en a une dans le cahier, elle sera au devoir.\n",
+			"bad_class": "participe un peu plus"
+		},
+		{
+			"name": "Enora",
+			"grade": 14,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail !\nbon paragraphe",
+			"bad_copie": "quel dommage pour la carte, tu perds trop de points. dès qu'il y a une carte dans le cahier, elle sera dans l'évaluation.",
+			"good_class": "bonne participation et travail sérieux"
+		},
+		{
+			"name": "Clara",
+			"grade": 14,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail.\nle cours est revu, compris, très bon paragraphe",
+			"bad_copie": "dommage pour la carte ! dès qu'il y a une dans le cahier, il faut la connaître.\n",
+			"good_class": "bonne participation",
+			"bad_class": "attention parfois à tes bavardages"
+		},
+		{
+			"name": "Laurette",
+			"grade": 13.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "assez bon travail.\nle cours est à peu près compris.",
+			"bad_copie": "il faut développer plus que cela le paragraphe. Exemple : \naragraphe :\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les les les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.\n\nglobalement, il faut encore plus de précision dans tes réponses",
+			"good_class": "bonne participation et travail très sérieux"
+		},
+		{
+			"name": "Oéane",
+			"grade": 13,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "bon travail !\nle cours a été revu sérieusement partie 1",
+			"bad_copie": "dommage pour la carte. Dès qu'il y en a une dans le cahier, il faut la connaître.\nil faut développer plus que cela le paragraphe, avec plus de mots clés.",
+			"good_class": "bonne participation fais toi confiance"
+		},
+		{
+			"name": "Gaël",
+			"grade": 12,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "cours relus à peu près compris.\ntrès bon paragraphe !",
+			"bad_copie": "je pense que tu as mal lu les consignes partie 1 questions 4 et 5.\nquel dommage pour la carte ! dès qu'il y a une carte dans le cahier, elle est à connaître.",
+			"good_class": "bonne participation et travail sérieux"
+		},
+		{
+			"name": "mathieu",
+			"grade": 11.5,
+			"alerte_cours": false,
+			"alerte_comportement": false,
+			"good_copie": "il y a des progrès. Le cours a été relu et assez bien compris",
+			"bad_copie": "il faut développer tes réponses.\n\nparagraphe :\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les les les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte. Les hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des informations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.\n\nil faut connaître encore plus la carte",
+			"bad_class": "ne te décourage pas et pose des questions quand tu ne comprends pas"
+		},
+		{
+			"name": "Marwa",
+			"grade": 9.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "cours relu mais non appris/compris",
+			"bad_copie": "carte à revoir absolument\n\nparagraphe : il faut beaucoup plus de détails\n\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.\n",
+			"bad_class": "encore trop de bavardages"
+		},
+		{
+			"name": "Doryan",
+			"grade": 9,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "le cours est relu mais pas forcément appris ou compris",
+			"bad_copie": "il faut plus de détails sur le paragraphe : \nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.\n\ndès qu'il y a une carte dans le cahier, il faut absolument la connaître.",
+			"good_class": "bonne participation",
+			"bad_class": "ne te décourage pas, ton travail est sérieux en classe"
+		},
+		{
+			"name": "Renaud",
+			"grade": 9,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "cours relu mais pas forcément appris ou compris.",
+			"bad_copie": "il faut beaucoup plus de détails que cela dans la partie 3. Exemple : \n\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte. D’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.\n\ndès qu'il y a une carte dans le cahier, il faut absolument la connaître.",
+			"good_class": "bonne participation en classe",
+			"bad_class": "concentre toi davantage y compris en devoirs faits"
+		},
+		{
+			"name": "Antonin",
+			"grade": 7,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "cours relus mais pas forcément appris, compris.",
+			"bad_copie": "il faut beaucoup plus de détails que cela dans la partie 3. Exemple : \n\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort.",
+			"good_class": "travail assez sérieux",
+			"bad_class": "participe plus en cours"
+		},
+		{
+			"name": "Killian",
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "le cours est relu mais pas forcément appris ou compris",
+			"bad_copie": "dès qu'il y a une carte dans la cahier, elle sera forcément à l'évaluation\n\ncorrection paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort\n\n",
+			"good_class": "travail sérieux",
+			"bad_class": "dis mois quand tu ne comprends pas"
+		},
+		{
+			"name": "Anaïs",
+			"grade": 6,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"good_copie": "le cours a été relu",
+			"bad_copie": "mais pas la carte : dès qu'il y a une carte dans la cahier, elle sera forcément à l'évaluation\n\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort",
+			"good_class": "des progrès : tu participes plus, et il y a plus de travail",
+			"bad_class": "continue et revois plus les cours"
+		},
+		{
+			"name": "Floriane",
+			"grade": 4.5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "cours on revu peu compris.\nCe résultat est inquiétant. Utilises tu la fiche de révision ? \n\ncorrection partie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste\n\ncorrection paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort",
+			"bad_class": "participe au moins une fois par heure"
+		},
+		{
+			"name": "Haïlie",
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "cours non revu peu compris. Utilises tu la fiche de révision ?\n\ncorrection partie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste\n\ncorrection paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort",
+			"good_class": "parfois bonne participation",
+			"bad_class": "ne te décourage pas et revois très régulièrement les cours"
+		},
+		{
+			"name": "Alexia",
+			"grade": 2,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "il y a de grosses difficultés de compréhension des consignes, des difficultés à mémoriser le cours.\nil y a de gros mélanges.\n\ncorrection partie 2\na. egypte mesopotamie\nb. vers 3500 av JC\nc. 4, 10, 12\nd. 3, 5\ne. 2\nf. le reste\n\ncorrection paragraphe\nLes premières écritures naissent en même temps que les États : les pictogrammes puis le cunéiforme en Mésopotamie, les hiéroglyphes en Égypte.\nD’abord gravés dans la pierre, les écrits se développent avec l’apparition des tablettes d’argile en Mésopotamie et du papyrus en Égypte.\nLes hommes ressentent le besoin d’écrire pour la gestion des affaires quotidiennes (comptabilité, commerce) et pour transmettre des infor-mations. Polythéistes, ils utilisent également l’écriture pour honorer les dieux et préparer leur mort",
+			"good_class": "parfois bonne participation",
+			"bad_class": "ne te décourage pas et dis moi quand ça ne va pas"
+		}
+	]
+}
